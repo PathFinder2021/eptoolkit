@@ -1,0 +1,73 @@
+{
+    "header1": "Energia varasto",
+    "box1Header1": "Yleiskatsaus",
+    "box1Text1": "Teksti d1",
+    "box1Text2": "Teksti d2",
+    "box1Text3": "Teksti d3",
+    "box1subheader1": " FI Energy storage text 1",
+    "box1Text4": "Teksti d4",
+    "box1subheader2": " FI Energy storage text 2",
+    "box1Text5": "Teksti d5",
+
+    "box2Header1": "FI Biogas",
+    "box2Text1": "FI Subject to source of suitable biodegradable feedstock (e.g. agricultural waste)",
+
+    "box3Header1": "FI Hot water thermal stores",
+    "box3Text1": "Teksti d6",
+
+    "box4Header1": "FI Batteries",
+    "box4Text1": "FI Depending on the value of energy stored and realistic charge-discharge cycle life expectancy, may be difficult to achieve a good payback",
+
+    "navHeader": "Navigaatio",
+    "nav1": "FI Biogas",
+    "nav2": "FI Hot water thermal stores",
+    "nav3": "FI Batteries",
+
+
+
+
+    "biogasTab2text1": "Teksti d7",
+    "biogasTab3text1": "Teksti d8",
+
+    "biogasHeader1text1": "Teksti d9",
+
+    "biogasHeader2text1": "Teksti d10",
+
+    "biogasHeader3text1": "Teksti d11",
+
+    "biogasHeader4text1": "Teksti d12",
+
+    "biogasRelatedLink1": "FI ADD LINKS LATER!!",
+
+
+
+
+    "hotWaterTab2text1": "Teksti d13",
+    "hotWaterTab3text1": "Teksti d14",
+
+    "hotWaterHeader1text1": "Teksti d15",
+
+    "hotWaterHeader2text1": "Teksti d16",
+
+    "hotWaterHeader3text1": "Teksti d17",
+
+    "hotWaterHeader4text1": "Teksti d18",
+
+    "hotWaterRelatedLink1": "FI ADD LINKS LATER!!",
+
+
+
+
+    "batteriesTab2text1": "Teksti d19",
+    "batteriesTab3text1": "Teksti d20",
+
+    "batteriesHeader1text1": "Teksti d21",
+
+    "batteriesHeader2text1": "Teksti d22",
+
+    "batteriesHeader3text1": "Teksti d23",
+
+    "batteriesHeader4text1": "Teksti d24",
+
+    "batteriesRelatedLink1": "FI ADD LINKS LATER!!"
+}

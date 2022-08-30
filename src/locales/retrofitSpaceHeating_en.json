@@ -1,0 +1,172 @@
+{
+    "header1": "...space heating",
+    "box1Header1": "Overview",
+    "box1Text1": " ",
+    "box1Text2": "  ",
+    "box1Text3": "   ",
+    "box1subheader1": " Heating text 1",
+    "box1Text4": " ",
+    "box1subheader2": " Heating text 2",
+    "box1Text5": " ",
+
+    "box2Header1": "Air source heat pump",
+    "box2Text1": "An increasingly commonplace renewable heating technology that functions by transferring thermal energy from the atmosphere into a building to provide space heating and hot water.",
+    
+    "box3Header1": "External heat supply: connect to district heating system",
+    "box3Text1": "A connection to a communal heating system which typically delivers heat to multiple properties from a centralised source. Within the property this will mean installation of pipework and a heat interface unit (HIU).",
+
+    "box4Header1": "Radiators (high temperature)",
+    "box4Text1": "A conventional system of radiators designed to operate at a high temperature (60°C to 80°C).",
+
+    "box5Header1": "Radiators (low temperature)",
+    "box5Text1": "A conventional system of radiators designed to operate at a low temperature (30°C to 55°C).",
+
+    "box6Header1": "Warm air heating",
+    "box6Text1": "May not achieve the same level of comfort unless all internal building surfaces are equally warm; humidity control is also important.",
+
+    "box7Header1": "Underfloor heating",
+    "box7Text1": "Advantageous as this achieves similar comfort levels with lower air temperatures, and hence significantly reduced fabric heat loss.",
+
+    "box8Header1": "Stove",
+    "box8Text1": " ",
+
+    "navHeader": "Navigation",
+    "nav1": "Air source heat pump",
+    "nav2": "Connect to district heating system",
+    "nav3": "Radiators (high temperature)",
+    "nav4": "Radiators (low temperature)",
+    "nav5": "Warm air heating",
+    "nav6": "Underfloor heating",
+    "nav7": "Stove",
+
+
+
+
+
+    "airPumpTab2text1": " ",
+    "airPumpTab3text1": " ",
+
+    "airPumpHeader1text1": "Heat pumps consume electricity to run one or more compressor circuits which transfer heat into a property from the external environment. In the case of an air source heat pump the external collector typically takes the form of a unit housing a heat exchanger and large fan to move air across it. In monobloc systems the compressor circuit is also self-contained within this unit, whereas in split systems the refrigerant gas within the circuit travels to an internal unit via flow and return pipes. Heat output can be used to provide ducted warm air heating, domestic hot water, or to heat a low temperature (typically 30°C to 55°C) wet distribution system such as oversize radiators or wet underfloor heating. Whilst air source heat pumps are available which can power a high temperature distribution system (conventional radiators) at present the efficiency of such systems is considerably lower, resulting in higher electricity consumption and running costs.",
+    "airPumpHeader1text2": "The cost effectiveness of air source heat pumps is typically good, especially where they are eligible for government incentives which can sometimes make the installation cost neutral over time. Running costs tend to be comparable to cheaper fossil fuel sources of heat where a well-designed system has been installed in a suitable building. The only caveat from a cost point of view is that initial installation costs will almost always represent a considerable investment which may present a barrier depending on the financial resources available.",
+    "airPumpHeader1text3": "At present, the key technical constraint on heat pump installations in older buildings is achieving sufficient heat output using a low temperature distribution system to bring the building up to the desired internal temperature at design conditions. In the context of a building with high heat loss this can be achieved by oversizing heat emitters, improving air tightness, and retrofitting fabric insulation. All of these interventions entail additional cost however, and in some cases (especially where options are constrained by conservation or other considerations) a heat pump may be rendered impractical.",
+    "airPumpHeader1text4": "Maintenance requirements vary but in general heat pumps are a low maintenance technology, requiring an annual visual inspection and more significant servicing every three to five years. Whilst heat pumps were once a specialist technology, they are now becoming more mainstream, resulting in a larger pool of qualified professionals to carry out any required maintenance.",
+
+    "airPumpHeader2text1": "The principle conservation challenges when retrofitting an air source heat pump will be disruption of historic interiors resulting from modification or installation of a wet distribution system, and the visual impact of the external unit. If historic interior finishes or windows are present the retrofit of sufficient insulation to make a heat pump a technically viable option may also represent a constraint.",
+
+    "airPumpHeader3text1": "An air source heat pump can represent considerable embodied carbon due to the installation of sophisticated new plant equipment. However, especially where a fossil fuel boiler or high carbon electric heating system is being replaced it is almost certain to repay this embodied carbon investment by displacement of grey energy.",
+    "airPumpHeader3text2": "It is also worth noting that a monobloc system may be preferable over a split system on sustainability grounds. This is because a monobloc system carries a far lower risk of refrigerant gas escape because the compressor circuit is factory sealed rather than being assembled on site. This carries the additional benefit that the installer need not be certified to work with refrigerant gasses, which can result in a cheaper installation.",
+
+    "airPumpHeader4text1": "Where design quality is an important consideration for whatever reason, careful thought should be given to balancing the needs of aesthetics and functionality. An air source heat pump can be placed adjacent to any external wall of a building however it will benefit, resulting in improved average efficiency, from being placed on an elevation which receives at least some solar gain, with a south-facing wall being best. It may also be wise to consider the present layout of pipework within the building to minimise internal disruption resulting from its rearrangement where an existing heating system is being replaced.",
+    "airPumpHeader4text2": "Enclosed areas or courtyards lacking consistent throughflow of air should not be considered as the heat pump will rapidly chill such areas, resulting in poor efficiency. For the same reason, an air source heat pump should not be placed in any enclosure that restricts air flow through the unit. This remains true even where the enclosure appears to be well ventilated via, for example, large open-louvred vents. Do not do this!",
+
+    "airPumpRelatedLink1": "ADD LINKS LATER!!",
+
+
+
+
+    "districtHeatingTab2text1": " ",
+    "districtHeatingTab3text1": " ",
+
+    "districtHeatingHeader1text1": "District heating networks have been common in parts of Europe for decades now and are growing in number and scale in response to the need for scalable low carbon heating solutions. The typical system delivers heat from a central source to multiple different properties which can be a mix of domestic and non-domestic premises. Schemes can range from communal boilers serving fewer than a dozen homes to megawatt scale installations serving thousands of properties. Heat sources include fossil fuels, biomass, heat pumps, geothermal heat, waste-to-energy incinerators, and waste heat from industrial processes.",
+    "districtHeatingHeader1text2": "Typically, the heat is distributed by a subterranean network of insulated pipework and individual dwellings are equipped with a small appliance about the size of a domestic boiler called a heat interface unit (HIU); though it should be noted that larger buildings on a district heating network will generally have bespoke heat exchange equipment rather than a standard unit. Whether standard or bespoke, this interface equipment safely transfers heat from the district circuit into the property’s heating system via one or more heat exchangers and will usually also contain metering apparatus which the network operator will use to bill network members for heat. This is not necessarily always the case however, with some networks billing users per unit (kWh) while others provide unlimited heat for a fixed fee, though this latter type is increasingly unusual. Inside a given property a district heating powered system functions much like any other with space heating delivered either via a wet distribution system (radiators or underfloor heating) or via warm air ducts; and hot water via one or more insulated cylinders.",
+    "districtHeatingHeader1text3": "Before committing to a district heating connection, careful consideration must be given to the ongoing implications of membership in a district heating scheme. As a district heating system is a natural monopoly, scrutiny should be applied to the proposed contractual arrangements which will govern your membership. In particular:",
+    "districtHeatingHeader1text4": "What safeguards exist against unreasonable price increases?",
+    "districtHeatingHeader1text5": "Are there financial penalties and what is the process for disconnecting?",
+    "districtHeatingHeader1text6": "Is there a route for scheme members to replace the network operator if unsatisfied?",
+    "districtHeatingHeader1text7": "It may also be prudent to familiarise yourself with the relevant legal frameworks governing the operation and membership of district heating networks in your national or regional context.",
+
+    "districtHeatingHeader2text1": "In the vast majority of cases the impact of a district heating connection will be near zero, especially where this replaces a previous heating system. In some cases, where a heat pump is the potential alternative for example, a district heating connection may be especially advantageous from a heritage standpoint as it can potentially offer a low carbon heating solution capable of powering a high-temperature wet distribution system (e.g. conventional radiators), potentially avoiding the fabric disruption entailed by replacement with a low-temperature system. It should be noted however that not all district heating systems operate at high temperature, meaning that it is advisable to also verify this detail for your particular local scheme.",
+
+    "districtHeatingHeader3text1": "A district heating connection may be said to have excellent sustainability credentials as it essentially shares a single set of plant equipment amongst all members of the scheme. This avoids the embodied carbon that would result from each property having its own individual plant equipment. It is also worth noting that even where a district heating system is presently powered by fossil fuel there is a reasonable chance that a connection will prove to be the most sustainable option in the long term. This is because the centralised nature of a district heating network typically makes it easier to decarbonise from a technical and economic standpoint than a heating system for an individual property.",
+    "districtHeatingHeader3text2": "The method of district heating production and fuels vary considerably from place to place. Thus, the specific emissions associated with the district heating energy used also vary considerably. In addition to the fuels used, this is influenced by the share of district heating and combined heat and power in the district heating produced and the way in which emissions are distributed. In large cities in particular, district heating production is in practice based entirely on cogeneration of district heating and electricity, while in several small localities district heating is produced in heating plants as separate production.",
+
+    "districtHeatingHeader4text1": "There is little in the way of design choice when it comes to a district heating connection. Design options are likely to be limited to the configuration of pipework, the location of the HIU or heat exchange equipment, and whether the concealing cabinet ought to be finished in oak or pine.",
+
+    "districtHeatingRelatedLink1": "ADD LINKS LATER!!",
+
+
+
+
+    "radHighTab2text1": " ",
+    "radHighTab3text1": " ",
+
+    "radHighHeader1text1": "A conventional radiator system functions by circulating hot water, typically heated by a boiler, through a system of flow and return pipes to provide heat to radiators, which are essentially small hot water tanks with a large surface area. These release heat from the water in the heating circuit into living spaces principally by convection, warming the air in the room rather than objects or occupants directly, and also to a much lesser degree by radiation.",
+    "radHighHeader1text2": "When installing a new radiator system as a retrofit measure it is worth considering carefully what the design operating temperature of the radiators should be as there are advantages to both a high temperature (typically 60°C to 80°C) and low temperature (typically 30°C to 55°C) setup.",
+    "radHighHeader1text3": "Where space is at a premium, or where the thermal performance of building fabric is relatively poor, high temperature radiators are likely to be more suitable. This is because radiators operating at high temperature output far more heat per surface area, meaning that achieving the same heat output to a given room requires fewer and/or smaller radiators. The difference in heat output is considerable; for example, a radiator at 40°C will output only 30% of the heat that the same radiator would output at 70°C.",
+    "radHighHeader1text4": "Conversely, the main advantage of installing a system designed to operate at low temperature is that the system will be compatible with a heat pump. Whilst high temperature heat pumps do exist, they are much less efficient than their low temperature equivalents and with present technology this is likely to entail high running costs. Whilst the efficiency of all heat pumps is likely to improve over time with advancing technology this basic fact is highly likely to remain true by virtue of thermodynamics. Put simply, a high temperature heat pump will always have to bridge a greater thermal gradient than a low temperature heat pump. Low temperature radiators also carry the additional benefit of creating a safer indoor environment as they present a lesser risk of burns, this is of particular benefit if the building is likely to be used by children or vulnerable persons.",
+
+    "radHighHeader2text1": "The heritage implications of installing a new radiator system are complex. On one hand, considerable internal disruption is to be expected as installing radiators and pipework will require access below floors, behind walls, and radiators themselves will have to be fitted to rooms. On the other hand, there is potential for conservation gain by installation of salvaged or imitation radiators appropriate to the period of the building.",
+
+    "radHighHeader3text1": "There is comparatively little to consider about a radiator system from a sustainability point of view. Such a system will entail some amount of embodied carbon but this should be of little concern as the lifetime of a system is generally very long. From a technical standpoint, installation of a radiator system in a building which has previously lacked an effective heating system is likely to improve the overall health of the fabric over time by enhancing the ability of the structure to shed moisture to the external environment.",
+
+    "radHighHeader4text1": "Design options for a radiator system are many and varied, with designer radiators available to suit any interior design imaginable. Radiators therefore can be made as unobtrusive as possible by selecting units which blend into the room, or can be made an ostentatious feature of the internal decor by selecting a bold designer radiator with a chrome or graphite finish for example. As mentioned above, salvaged or imitation radiators in the style of previous decades can also be used depending on the desired feel. There are also options to conceal radiators entirely, using louvred or ventilated wooden coverings, or by their concealment in skirting boards for example. Such options may be desirable but should be discussed with the installer and considered carefully as they will inevitably come at the cost of less effective distribution of heat into the room.",
+
+    "radHighRelatedLink1": "ADD LINKS LATER!!",
+
+
+
+
+    "radLowTab2text1": " ",
+    "radLowTab3text1": " ",
+
+    "radLowHeader1text1": "A conventional radiator system functions by circulating hot water, typically heated by a boiler, through a system of flow and return pipes to provide heat to radiators, which are essentially small hot water tanks with a large surface area. These release heat from the water in the heating circuit into living spaces principally by convection, warming the air in the room rather than objects or occupants directly, and also to a much lesser degree by radiation.",
+    "radLowHeader1text2": "When installing a new radiator system as a retrofit measure it is worth considering carefully what the design operating temperature of the radiators should be as there are advantages to both a high temperature (typically 60°C to 80°C) and low temperature (typically 30°C to 55°C) setup.",
+    "radLowHeader1text3": "Where space is at a premium, or where the thermal performance of building fabric is relatively poor, high temperature radiators are likely to be more suitable. This is because radiators operating at high temperature output far more heat per surface area, meaning that achieving the same heat output to a given room requires fewer and/or smaller radiators. The difference in heat output is considerable; for example, a radiator at 40°C will output only 30% of the heat that the same radiator would output at 70°C.",
+    "radLowHeader1text4": "Conversely, the main advantage of installing a system designed to operate at low temperature is that the system will be compatible with a heat pump. Whilst high temperature heat pumps do exist, they are much less efficient than their low temperature equivalents and with present technology this is likely to entail high running costs. Whilst the efficiency of all heat pumps is likely to improve over time with advancing technology this basic fact is highly likely to remain true by virtue of thermodynamics. Put simply, a high temperature heat pump will always have to bridge a greater thermal gradient than a low temperature heat pump. Low temperature radiators also carry the additional benefit of creating a safer indoor environment as they present a lesser risk of burns, this is of particular benefit if the building is likely to be used by children or vulnerable persons.",
+
+    "radLowHeader2text1": "The heritage implications of installing a new radiator system are complex. On one hand, considerable internal disruption is to be expected as installing radiators and pipework will require access below floors, behind walls, and radiators themselves will have to be fitted to rooms. On the other hand, there is potential for conservation gain by installation of salvaged or imitation radiators appropriate to the period of the building.",
+
+    "radLowHeader3text1": "There is comparatively little to consider about a radiator system from a sustainability point of view. Such a system will entail some amount of embodied carbon but this should be of little concern as the lifetime of a system is generally very long. From a technical standpoint, installation of a radiator system in a building which has previously lacked an effective heating system is likely to improve the overall health of the fabric over time by enhancing the ability of the structure to shed moisture to the external environment.",
+    "radLowHeader3text2": "Design options for a radiator system are many and varied, with designer radiators available to suit any interior design imaginable. Radiators therefore can be made as unobtrusive as possible by selecting units which blend into the room, or can be made an ostentatious feature of the internal decor by selecting a bold designer radiator with a chrome or graphite finish for example. As mentioned above, salvaged or imitation radiators in the style of previous decades can also be used depending on the desired feel. There are also options to conceal radiators entirely, using louvred or ventilated wooden coverings, or by their concealment in skirting boards for example. Such options may be desirable but should be discussed with the installer and considered carefully as they will inevitably come at the cost of less effective distribution of heat into the room.",
+
+    "radLowHeader4text1": "The principle conservation challenges when retrofitting an air source heat pump will be disruption of historic interiors resulting from modification or installation of a wet distribution system, and the visual impact of the external unit. If historic interior finishes or windows are present the retrofit of sufficient insulation to make a heat pump a technically viable option may also represent a constraint.",
+
+    "radLowRelatedLink1": "ADD LINKS LATER!!",
+
+
+
+
+    "warmAirTab2text1": " ",
+    "warmAirTab3text1": " ",
+
+    "warmAirHeader1text1": "  ",
+
+    "warmAirHeader2text1": "  ",
+
+    "warmAirHeader3text1": "  ",
+
+    "warmAirHeader4text1": "  ",
+
+    "warmAirRelatedLink1": "ADD LINKS LATER!!",
+
+
+
+
+    "underfloorTab2text1": " ",
+    "underfloorTab3text1": " ",
+
+    "underfloorHeader1text1": "  ",
+
+    "underfloorHeader2text1": "  ",
+
+    "underfloorHeader3text1": "  ",
+
+    "underfloorHeader4text1": "  ",
+
+    "underfloorRelatedLink1": "ADD LINKS LATER!!",
+
+
+
+    "stoveTab2text1": " ",
+    "stoveTab3text1": " ",
+
+    "stoveHeader1text1": "  ",
+
+    "stoveHeader2text1": "  ",
+
+    "stoveHeader3text1": "  ",
+
+    "stoveHeader4text1": "  ",
+
+    "stoveRelatedLink1": "ADD LINKS LATER!!"
+}

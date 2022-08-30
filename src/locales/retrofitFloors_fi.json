@@ -1,0 +1,149 @@
+{
+    "header1": "Lattiat",
+    "box1Header1": "Yleiskatsaus",
+    "box1Text1": "Teksti f1",
+    "box1Text2": "Teksti f2",
+    "box1Text3": "Teksti f3",
+    "box1subheader1": " FI Floors text 1",
+    "box1Text4": "Teksti f4.",
+    "box1subheader2": " FI Floors text 2",
+    "box1Text5": "Teksti f5",
+
+    "box2Header1": "Ryömintätilaisen alapohjan lisäeristäminen vanhan eristeen alapuolelle (esim. tuulensuojalevy)",
+    "box2Text1": "Parantaa hieman rakennuksen lämmöneristävyyttä eristepaksuutta kasvattamalla. Voidaan asentaa lattian alapuolelta rakennuksen ryömintätilassa.",
+
+    "box3Header1": "Ryömintätilaisen alapohjan energiatehokkuuden parantaminen vaihtamalla eristeet tehokkaampiin",
+    "box3Text1": "Parantaa hieman rakennuksen lämmöneristävyyttä.",
+
+    "box4Header1": "Ryömintätilaisen alapohjan energiatehokkuuden parantaminen lisäämällä eristettä painuneen tilalle",
+    "box4Text1": "Parantaa hieman rakennuksen lämmöneristävyyttä.",
+
+    "box5Header1": "Maanvaraisen laatan energiatehokkuuden parantaminen vaihtamalla eristeet tehokkaampiin",
+    "box5Text1": "Edellyttää laatan purkamista. Parantaa merkittävästi rakennuksen lämmöneristävyyttä.",
+
+    "box6Header1": "Routasuojauksen parantaminen maanvaraisen laatan yhteydessä ja sokkelin ulkopuolinen lisäeriste",
+    "box6Text1": "Parantaa hieman rakennuksen lämmöneristävyyttä.",
+
+    "box7Header1": "Ilmatiiveyden parantaminen höyrynsulun vuotokohtien ja reikien teippauksin",
+    "box7Text1": "Parantaa lämmöneristävyyttä, ehkäisee lämmönvuotoja ja pienentää vedon tunnetta. ",
+
+    "navHeader": "Navigaatio",
+    "nav1": "Ryömintätilaisen alapohjan lisäeristäminen",
+    "nav2": "Ryömintätilaisen alapohjan eristeiden vaihtaminen",
+    "nav3": "Ryömintätilaisen alapohjan painuneiden eristeiden korvaaminen",
+    "nav4": "Eristeiden vaihtaminen lattiaan maanvaraisella laatalla",
+    "nav5": "Routasuojauksen parantaminen",
+    "nav6": "Höyrysulun teippaukset",
+
+
+
+
+    "addingInsulationTab2text1": "Teksti f6",
+    "addingInsulationTab3text1": "Teksti f7",
+
+    "addingInsulationHeader1text1": "Parantaa hieman rakennuksen lämmöneristävyyttä eristepaksuutta kasvattamalla. Voidaan asentaa lattian alapuolelta rakennuksen ryömintätilassa.",
+
+    "addingInsulationHeader2text1": "Parantaa hieman lämmöneristävyyttä.",
+
+    "addingInsulationHeader3text1": "Ei edellytä sisätiloissa muutoksia, joten rakennusta voidaan käyttää jälkiasennustöiden ajan.",
+    "addingInsulationHeader3text2": "Ryömintätilan tuulettuvuus täytyy tarkistaa ja kaikki maata vasten oleva orgaaninen aine poistaa.",
+
+    "addingInsulationHeader4text1": "Ei muuta ulkonäköä tai luonnetta.",
+
+    "addingInsulationRelatedLink1": "FI ADD LINKS LATER!!",
+
+
+
+
+    "changingInsulationTab2text1": "Teksti f8",
+    "changingInsulationTab3text1": "Teksti f9",
+
+    "changingInsulationHeader1text1": "Parantaa hieman rakennuksen lämmöneristävyyttä. Uuden rakenteen on noudatettava tällä hetkellä voimassa olevia määräyksiä lämmöneristävyyden suhteen.",
+
+    "changingInsulationHeader2text1": "Edellyttää aina purkutöitä, joka lisää kustannuksia merkittävästi. Energiatehokkuuden parantamiseksi kannattaa harkita myös eristekerroksen paksuuden kasvattamista.",
+    "changingInsulationHeader2text2": "Kannattaa harkita toimenpidettä, mikäli pintoja uusitaan muutenkin.",
+
+    "changingInsulationHeader3text1": "Korjaustoimenpiteet edellyttävät käytännössä tilan tyhjentämistä.",
+    "changingInsulationHeader3text2": "Eristeen rakennusfysikaalinen toimivuus täytyy tutkia.",
+    "changingInsulationHeader3text3": "Vanhojen rakenteiden purkutöistä tulee jätteitä, jotka tulee hävittää asianmukaisesti. Lisäksi uusi eriste saattaa vuosikymmenten kuluessa painua kasaan. Alapohjan eristeet on asennettava huolellisesti ja tiiviisti, jotta mahdollisia ilmavuotoja alapohjasta ei tule.",
+
+    "changingInsulationHeader4text1": "Muuttaa aina sisätilojen luonnetta, koska vanhat pintakerrokset joudutaan purkamaan remontin yhteydessä.",
+    "changingInsulationHeader4text2": "Mikäli kyseessä on historiallinen kohde, tulee olla yhteydessä museoviranomaisiin ja rakennusvalvontaan ennen toimenpiteitä.",
+
+    "changingInsulationRelatedLink1": "FI ADD LINKS LATER!!",
+
+
+
+
+    "impressedInsulationTab2text1": "Teksti f10",
+    "impressedInsulationTab3text1": "Teksti f11",
+
+    "impressedInsulationHeader1text1": "Parantaa hieman rakennuksen lämmöneristävyyttä.",
+
+    "impressedInsulationHeader2text1": "Parantaa hieman lämmöneristävyyttä. Kannattaa ryhtyä, mikäli lattian pintarakenteet uusitaan.",
+    "impressedInsulationHeader2text2": "Koskee lähinnä perinteisiä purueristeisiä lattioita.",
+    "impressedInsulationHeader2text3": "Edellyttää aina purkutöitä, joka lisää kustannuksia merkittävästi.",
+
+    "impressedInsulationHeader3text1": "Rakennusta ei voida käyttää jälkiasennustöiden aikana.",
+    "impressedInsulationHeader3text2": "Eristeen rakennusfysikaalinen toimivuus täytyy tutkia.",
+
+    "impressedInsulationHeader4text1": "Muuttaa aina rakennuksen luonnetta, koska vanhat pintakerrokset joudutaan purkamaan remontin yhteydessä.",
+    "impressedInsulationHeader4text2": "Mikäli kyseessä on historiallinen kohde, tulee olla yhteydessä museoviranomaisiin ja rakennusvalvontaan ennen toimenpiteitä.",
+
+    "impressedInsulationRelatedLink1": "FI ADD LINKS LATER!!",
+
+
+
+
+    "changingInsulationSoGTab2text1": "Teksti f12",
+    "changingInsulationSoGTab3text1": "Teksti f13",
+
+    "changingInsulationSoGHeader1text1": "Parantaa merkittävästi rakennuksen lämmöneristävyyttä. Uuden rakenteen on noudatettava tällä hetkellä voimassa olevia määräyksiä lämmöneristävyyden suhteen.",
+
+    "changingInsulationSoGHeader2text1": "Tämä jälkiasennustyö on todella kallis ja käytännössä tarkoittaa rakenteiden uusimista.",
+
+    "changingInsulationSoGHeader3text1": "Korjaustoimenpiteet edellyttävät tilan tyhjentämistä.",
+    "changingInsulationSoGHeader3text2": "Eristeen rakennusfysikaalinen toimivuus täytyy tutkia.",
+    "changingInsulationSoGHeader3text3": "Vanhojen rakenteiden purkutöistä tulee jätteitä, jotka tulee hävittää asianmukaisesti.",
+    "changingInsulationSoGHeader3text4": "Suuri hiilijalanjälki.",
+
+    "changingInsulationSoGHeader4text1": "Muuttaa aina sisätilojen luonnetta, koska vanhat pintakerrokset joudutaan purkamaan remontin yhteydessä.",
+    "changingInsulationSoGHeader4text2": "Mikäli kyseessä on historiallinen kohde, tulee olla yhteydessä museoviranomaisiin ja rakennusvalvontaan ennen toimenpiteitä.",
+
+    "changingInsulationSoGRelatedLink1": "FI ADD LINKS LATER!!",
+
+
+
+
+    "improvingGFGTab2text1": "Teksti f14",
+    "improvingGFGTab3text1": "Teksti f15",
+
+    "improvingGFGHeader1text1": "Parantaa hieman rakennuksen lämmöneristävyyttä. Tämä toimenpide on suositeltava, mikäli rakennuksen ulkopuolella on tarve korjata esimerkiksi vedenpoiston toimivuutta.",
+
+    "improvingGFGHeader2text1": "Parantaa hieman lämmöneristävyyttä.",
+    "improvingGFGHeader2text2": "Edellyttää maansiirtotöitä, joten kustannukset voivat olla suuret.",
+
+    "improvingGFGHeader3text1": "Ei edellytä sisätiloissa muutoksia, joten rakennusta voidaan käyttää jälkiasennustöiden ajan.",
+
+    "improvingGFGHeader4text1": "Ei muuta merkittävästi rakennuksen luonnetta.",
+
+    "improvingGFGRelatedLink1": "FI ADD LINKS LATER!!",
+
+
+
+
+    "tapingVBarrierTab2text1": "Teksti f16",
+    "tapingVBarrierTab3text1": "Teksti f17",
+
+    "tapingVBarrierHeader1text1": "Parantaa lämmöneristävyyttä, ehkäisee lämmönvuotoja ja pienentää vedon tunnetta. Erityisesti tulee kiinnittää huomiota lattian ja seinien liittymäkohtien ilmatiiviyteen. Voi olla välttämätön toimenpide esimerkiksi mikäli rakennuksessa on liiallista radonia.",
+
+    "tapingVBarrierHeader2text1": "Kannattaa harkita toimenpidettä, mikäli pintoja uusitaan muutenkin.",
+
+    "tapingVBarrierHeader3text1": "Vedon tunteen vähentäminen parantaa merkittävästi käyttäjämukavuutta.",
+    "tapingVBarrierHeader3text2": "Olemassa olevan rakenteen (esimerkiksi höyrynsulkukalvon) teknistä käyttöikää tulee tarkastalla.",
+    "tapingVBarrierHeader3text3": "Eristeen rakennusfysikaalinen toimivuus täytyy tutkia.",
+
+    "tapingVBarrierHeader4text1": "Teksti f18",
+
+    "tapingVBarrierRelatedLink1": "FI ADD LINKS LATER!!"
+}

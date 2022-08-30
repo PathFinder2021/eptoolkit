@@ -1,0 +1,154 @@
+{
+    "header1": "...walls",
+    "box1Header1": "Overview",
+    "box1Text1": " ",
+    "box1Text2": "  ",
+    "box1Text3": "   ",
+    "box1subheader1": "",
+    "box1Text4": " ",
+    "box1subheader2": "",
+    "box1Text5": " ",
+
+    "box2Header1": "Adding additional insulation to a stony external wall, such as a Sandwich concrete element, outside existing insulation (e.g. polyurethane insulation)",
+    "box2Text1": "The stone exterior wall excellently isolates sound.",
+
+    "box3Header1": "Filling an air passage of a stony external wall with polyurethane foam",
+    "box3Text1": "Slightly improves the thermal insulation of the building.",
+
+    "box4Header1": "Adding additional insulation to a wooden external wall outside existing insulation (e.g. sheathing board)",
+    "box4Text1": "Improves the thermal insulation of the building slightly by increasing insulation.",
+
+    "box5Header1": "Adding 50mm or less of additional insulation to a wooden external wall inside existing insulation (e.g. porous fiberboard)",
+    "box5Text1": "Improves the thermal insulation of the building slightly by increasing insulation.",
+
+    "box6Header1": "Increasing the energy efficiency of a wooden external wall by changing to better insulators",
+    "box6Text1": "Slightly improves the thermal insulation of the building.",
+
+    "box7Header1": "Improving airtightness by taping leaks and holes in a vapour barrier",
+    "box7Text1": "Improves thermal insulation, prevents heat leakage and reduces the feeling of draught.",
+
+    "navHeader": "Navigation",
+    "nav1": "Additional insulation to a stone wall",
+    "nav2": "Filling an air passage of a stone wall with PU foam",
+    "nav3": "Additional insulation outside existing insulation of a wooden wall",
+    "nav4": "Additional insulation inside existing insulation of a wooden wall",
+    "nav5": "Changing the insulators of a wooden wall",
+    "nav6": "Taping the vapour barrier",
+
+
+
+
+    "addingInsulationSTab2text1": " ",
+    "addingInsulationSTab3text1": " ",
+
+    "addingInsulationSHeader1text1": "The stone exterior wall excellently isolates sound.",
+
+    "addingInsulationSHeader2text1": "A very cost-effective and energy-efficient solution. ",
+
+    "addingInsulationSHeader3text1": "Fire safety should be ensured, as some types of plates may be sensitive to fire.",
+    "addingInsulationSHeader3text2": "SPU boards are made of plastic, so they are heavy in carbon footprint.",
+
+    "addingInsulationSHeader4text1": "Significantly changes the layout of the building. In all cases, you should contact the building control, and in historical buildings also with the museum authorities.",
+
+    "addingInsulationSRelatedLink1": "It is advisable to consider increasing the additional heat insulation inside.",
+
+
+
+
+    "airPassageSTab2text1": " ",
+    "airPassageSTab3text1": " ",
+
+    "airPassageSHeader1text1": "Slightly improves the thermal insulation of the building.",
+
+    "airPassageSHeader2text1": "Slightly improves the thermal insulation of the building. Challenging to ensure the success of the work, so other options should be considered first and foremost. Useful option if insulation cannot be increased due to the historical value of the building (e.g. protected building).",
+
+    "airPassageSHeader3text1": "A relatively effortless measure, but costs vary.",
+    "airPassageSHeader3text2": "We need to examine the physical functionality of the insulation.",
+
+    "airPassageSHeader4text1": "Does not change the nature of indoor or outdoor spaces. Any injection or blowing holes must be carefully designed.",
+
+    "airPassageSRelatedLink1": "ADD LINKS LATER!!",
+
+
+
+
+    "addingInsulationWOutsideTab2text1": " ",
+    "addingInsulationWOutsideTab3text1": " ",
+
+    "addingInsulationWOutsideHeader1text1": "Improves the thermal insulation of the building slightly by increasing insulation. The new structure must comply with the regulations currently in force with regard to thermal insulation.",
+
+    "addingInsulationWOutsideHeader2text1": "Improves thermal insulation.",
+    "addingInsulationWOutsideHeader2text2": "Recommended measure if the wooden façade is at the end of its useful life anyway.",
+    "addingInsulationWOutsideHeader2text3": "Demolition work is always required, which significantly increases costs. In order to improve energy efficiency, you should also consider increasing the thickness of the insulation layer.",
+    "addingInsulationWOutsideHeader2text4": "It is advisable to consider the measure if the façade surfaces are renewed.",
+
+    "addingInsulationWOutsideHeader3text1": "No interior modifications are required, so the building can be used during retrofitting work.",
+    "addingInsulationWOutsideHeader3text2": "We need to examine the physical functionality of the insulation.",
+
+    "addingInsulationWOutsideHeader4text1": "Always changes the nature of the building, as the old surface floors will have to be demolished during renovation. Increases the structural percentage.",
+    "addingInsulationWOutsideHeader4text2": "In the case of a historical site, you must contact the museum authorities and building control before taking any action.",
+
+    "addingInsulationWOutsideRelatedLink1": "Heat insulation of the inside.",
+
+
+
+
+    "addingInsulationWInsideTab2text1": "Excessive growth of the insulation layer can cause moisture damage.",
+    "addingInsulationWInsideTab3text1": " ",
+
+    "addingInsulationWInsideHeader1text1": "Improves the thermal insulation of the building slightly by increasing insulation. The new structure must comply with the regulations currently in force with regard to thermal insulation.",
+
+    "addingInsulationWInsideHeader2text1": "Demolition work is always required, which significantly increases costs. In order to improve energy efficiency, you should also consider increasing the thickness of the insulation layer.",
+    "addingInsulationWInsideHeader2text2": "It is advisable to consider the procedure if the surfaces are going to be renewed anyway.",
+
+    "addingInsulationWInsideHeader3text1": "In practice, repairs require emptying the space.",
+    "addingInsulationWInsideHeader3text2": "We need to examine the physical functionality of the insulation.",
+    "addingInsulationWInsideHeader3text3": "Excessive growth of the insulation layer can cause moisture damage.",
+
+    "addingInsulationWInsideHeader4text1": "Always changes the nature of the interior, as the old surface layers will have to be demolished during renovation.",
+    "addingInsulationWInsideHeader4text2": "In the case of a historical site, you must contact the museum authorities and building control before taking any action.",
+
+    "addingInsulationWInsideRelatedLink1": "Improving airtightness can probably be a better and more cost-effective option in terms of thermal insulation. For example, adding a 20 mm fibreboard.",
+
+
+
+
+    "changingInsulationWTab2text1": "Excessive growth of the insulation layer can cause moisture damage.",
+    "changingInsulationWTab3text1": " ",
+
+    "changingInsulationWHeader1text1": "Slightly improves the thermal insulation of the building. The new structure must comply with the regulations currently in force with regard to thermal insulation.",
+
+    "changingInsulationWHeader2text1": "Demolition work is always required, which significantly increases costs. In order to improve energy efficiency, you should also consider increasing the thickness of the insulation layer.",
+    "changingInsulationWHeader2text2": "It is advisable to consider the procedure if the surfaces are going to be renewed anyway.",
+
+    "changingInsulationWHeader3text1": "In practice, repairs require emptying the space.",
+    "changingInsulationWHeader3text2": "We need to examine the physical functionality of the insulation. Moreover, not all insulations isolate sound as effectively.",
+    "changingInsulationWHeader3text3": "Excessive growth of the insulation layer can cause moisture damage.",
+    "changingInsulationWHeader3text4": "Demolition work on old structures becomes waste that must be disposed of properly. In addition, over the decades, the new insulation may be accumulated or removed from the farm.",
+
+    "changingInsulationWHeader4text1": "Always changes the nature of the interior, as the old surface layers will have to be demolished during renovation.",
+    "changingInsulationWHeader4text2": "In the case of a historical site, you must contact the museum authorities and building control before taking any action.",
+
+    "changingInsulationWRelatedLink1": "Improving airtightness can probably be a better and more cost-effective option in terms of thermal insulation. For example, adding a 20 mm fibreboard.",
+
+
+
+
+    "tapingVBarrierTab2text1": "Excessive growth of the insulation layer can cause moisture damage.",
+    "tapingVBarrierTab3text1": " ",
+
+    "tapingVBarrierHeader1text1": "Improves thermal insulation, prevents heat leakage and reduces the feeling of draught.",
+
+    "tapingVBarrierHeader2text1": "It is advisable to consider the procedure if the surfaces are going to be renewed anyway.",
+
+    "tapingVBarrierHeader3text1": "Reducing the feeling of bet improves user comfort more than a small additional heat reduction.",
+    "tapingVBarrierHeader3text2": "The technical service life of the existing structure (e.g. vapour shut-off film) must be checked. The technical lifespan of plastic films is practically 30 years.",
+    "tapingVBarrierHeader3text3": "In practice, remedies require emptying the space.",
+    "tapingVBarrierHeader3text4": "We need to examine the physical functionality of the insulation. Moreover, not all insulations isolate sound as effectively.",
+    "tapingVBarrierHeader3text5": "Excessive growth of the insulation layer can cause moisture damage.",
+    "tapingVBarrierHeader3text6": "Demolition work on old structures becomes waste that must be disposed of properly.",
+
+    "tapingVBarrierHeader4text1": "In a steam-free building, pink cardboard is a breathable option. It may be good to leave old floor layers in place.",
+
+    "tapingVBarrierRelatedLink1": "Improving airtightness can probably be a better and more cost-effective option in terms of thermal insulation. For example, adding a 20 mm fibreboard."
+}

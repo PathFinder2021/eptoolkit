@@ -1,0 +1,53 @@
+{
+    "header1": "Energian tuotto",
+    "box1Header1": "Yleiskatsaus",
+    "box1Text1": "Teksti e1",
+    "box1Text2": "Teksti e2",
+    "box1Text3": "Teksti e3",
+    "box1subheader1": " FI Energy supply text 1",
+    "box1Text4": "Teksti e4",
+    "box1subheader2": " FI Energy supply text 2",
+    "box1Text5": "Teksti e5",
+
+    "box2Header1": "FI Connection to electricity network",
+    "box2Text1": "Teksti e6",
+
+    "box3Header1": "Generaattori",
+    "box3Text1": "Teksti e7",
+
+    "navHeader": "Navigaatio",
+    "nav1": "FI Electricity network",
+    "nav2": "Generaattori",
+
+
+
+
+    "electricityNetworkTab2text1": "Teksti e8",
+    "electricityNetworkTab3text1": "Teksti e9",
+
+    "electricityNetworkHeader1text1": "Teksti e10",
+
+    "electricityNetworkHeader2text1": "Teksti e11",
+
+    "electricityNetworkHeader3text1": "Teksti e12",
+
+    "electricityNetworkHeader4text1": "Teksti e13",
+
+    "electricityNetworkRelatedLink1": "FI ADD LINKS LATER!!",
+
+
+
+
+    "generatorTab2text1": "Teksti e14",
+    "generatorTab3text1": "Teksti e15",
+
+    "generatorHeader1text1": "Teksti e16",
+
+    "generatorHeader2text1": "Teksti e17",
+
+    "generatorHeader3text1": "Teksti e18",
+
+    "generatorHeader4text1": "Teksti e19.",
+
+    "generatorRelatedLink1": "FI ADD LINKS LATER!!"
+}

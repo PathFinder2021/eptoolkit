@@ -1,0 +1,39 @@
+{
+    "energyPerformanceLabel": "Energiatehokkuus",
+    "heritageLabel": "Rakennusperinnön huomioiminen",
+    "costLabel": "Kustannustehokkuus",
+    "sustainabilityLabel": "Elinkaari",
+    "energyPerformanceRatingLabels": ["Surkea", "Huono", "Kohtuullinen", "Hyvä", "Erinomainen"],
+    "heritageRatingLabels": ["Surkea", "Huono", "Kohtuullinen", "Hyvä", "Erinomainen"],
+    "costRatingLabels": ["Surkea", "Huono", "Kohtuullinen", "Hyvä", "Erinomainen"],
+    "sustainabilityRatingLabels": ["Surkea", "Huono", "Kohtuullinen", "Hyvä", "Erinomainen"],
+
+    "tab1": "Peruskorjausratkaisu yleisesti",
+    "tab2": "Mahdollisia haittavaikutuksia",
+    "tab3": "Lisää projektiisi",
+    "tab3text1": "Peruskorjausratkaisujen lisääminen valittuna olevaan rakennukseen voi vaikuttaa sen arviointituloksiin. Valittujen peruskorjusratkaisujen vaikutuksia voi tarkastella klikkaamalla ostoskärryn kuvaketta yläpalkissa.",
+    "tab3button1": "Lisää projektiin",
+
+    "ratingEnergy": "Energiatehokkuus",
+    "ratingHeritage": "Rakennusperinnön huomioiminen",
+    "ratingCost": "Kustannustehokkuus",
+    "ratingSustainability": "Elinkaari",
+
+    "explanationText1": "FI Add some text here that summarizes what these options are about. (This can be removed if necessary)",
+    "explanationText2": "Liiku hiirellä peruskorjausratkaisun ylle nähdäksesi yleiskatsauksen tai klikkaa saadaksesi lisätietoja.",
+
+    "navHeader": "Navigaatio",
+    "nav1": "Yleisesti",
+    "nav2": "Kustannus- & energiatehokkuus",
+    "nav3": "Mukavuus, haittavaikutukset & elinkaari",
+    "nav4": "Rakennusperintö & toteutus",
+    "nav5": "Muita peruskorjausratkaisuja",
+
+    "header1": "Kuinka tämä peruskorjausratkaisu toimii?",
+    "header2": "Kustannus- ja energiatehokkuus",
+    "header3": "Käyttäjämukavuus, mahdolliset haittavaikutukset ja elinkaari",
+    "header4": "Rakennusperinnön hoidon ja toteutuksen vaihtoehdot ",
+    "header5": "Mahdollisia muita peruskorjausratkaisuja",
+
+    "relatedText1": "Tässä vaihtoehto(ja) yllämainitun peruskorjausratkaisun tilalle, rinnalle tai paikkaamaan siitä mahdollisesti aiheutuvia haittavaikutuksia:"
+}

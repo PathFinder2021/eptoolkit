@@ -1,0 +1,38 @@
+{
+    "header1": "ENERGY PATHFINDER",
+    "subheader1": "Retrofitting historic buildings sustainably",
+
+    "tab1": "Overview",
+    "tab2": "Retrofit library",
+    "tab3": "Project planner",
+    "tab4": "Case studies",
+
+    "tab1text1": "This online toolkit will help you understand how to retrofit historic buildings in northern Europe to make them more energy efficient and sustainable - without losing what makes them important as cultural heritage. The toolkit can be used by anyone interested in learning about historic building retrofit. No technical knowledge is required, only enthusiasm to explore.",
+    "tab1text2": "With this toolkit, retrofits for all types of buildings can be explored, regardless of a building's age and use. Buildings do not need to be designated as cultural heritage, e.g. by listing.",
+    "tab1text3": "The toolkit consists of three parts:",
+    "tab1text4": "Retrofit Library",
+    "tab1text5": ": Selection of retrofit measures to browse and learn from, including technical and heritage considerations",
+    "tab1text6": "Project planner",
+    "tab1text7": ": Interactive tool to explore and tailor retrofit pathways for your specific historic building",
+    "tab1text8": "Case studies",
+    "tab1text9": ": Web links to selected resources with examples of relevant conservation projects and technical discussions",
+    "tab1text10": "This toolkit provides generic advice on practical building conservation and retrofit and is an aid for learning and planning retrofits in general. The toolkit doesn't calculate energy usage or carbon emissions nor does it replace obtaining professional advice and required legal consents.",
+    "tab1text11": "Authors: Pekka Alaluukas, Caroline Akiboye, Bárður Í Baianstovu, Simon Conolly, Caitriona Courtney, Roger Curtis, Kenneth Easson, Carsten Hermann, Sami Jouppila, Miikka Kortelainen, Markus Leinonen, Kevin McCartney, Gireesh Nair, Anne Schmidt, Kai Tolonen, Ville Vaara and Jose Ospina",
+    
+    "tab2text1": "The retrofit library collects retrofit measures that maintain or improve the condition of a building or parts thereof to better suit its purpose. Renovation construction includes, for example, ",
+    "tab2text2": "maintenance, refurbishment, renovation, renovation, overhaul, ",
+    "tab2text3": "and ",
+    "tab2text4": "restoration.",
+    "tab2text5": "By pressing the 'See retrofit options' button, you can move on to explore the different options.",
+    "tab2button": "See retrofit options",
+
+    "tab3text1": "In the Project planner section, you can enter information about your own construction project and find out which retrofitting measures are sensible or possible to include.",
+    "tab3text2": "",
+    "tab3button1": "Add new project",
+    "tab3button2": "See your projects",
+
+    "tab4text1": "In the Case studies section, you can look at retrofitting solutions for example sites that improve the energy efficiency of a historic building. The site also has links to similar applications.",
+    "tab4button": "See case studies",
+
+    "OR":""
+}

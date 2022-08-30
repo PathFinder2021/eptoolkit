@@ -1,0 +1,149 @@
+{
+    "header1": "...floors",
+    "box1Header1": "Overview",
+    "box1Text1": "  ",
+    "box1Text2": "  ",
+    "box1Text3": "  ",
+    "box1subheader1": " Floors text 1",
+    "box1Text4": "  ",
+    "box1subheader2": " Floors 2",
+    "box1Text5": "  ",
+
+    "box2Header1": "Adding additional insulation to a base floor with a crawl space under existing insulation (e.g. sheathing board)",
+    "box2Text1": "Improves the thermal insulation of the building slightly by increasing insulation. Can be installed below the floor in the crawl space of the building.",
+
+    "box3Header1": "Increasing the energy efficiency of a base floor with a crawl space by changing to better insulators",
+    "box3Text1": "Slightly improves the thermal insulation of the building.",
+
+    "box4Header1": "Increasing the energy efficiency of a base floor with a crawl space by replacing impressed insulators",
+    "box4Text1": "Slightly improves the thermal insulation of the building.",
+
+    "box5Header1": "Increasing the energy efficiency of a slab-on-grade by changing to better insulators",
+    "box5Text1": "Slab needs to be demolished. Significantly improves the thermal insulation of the building.",
+
+    "box6Header1": "Improving the ground frost guard together with the slab-on-grade and additional insulation outside of the plinth",
+    "box6Text1": "Slightly improves the thermal insulation of the building.",
+
+    "box7Header1": "Improving airtightness by taping leaks and holes in a vapour barrier",
+    "box7Text1": "Improves thermal insulation, prevents heat leakage and reduces the feeling of draught.",
+
+    "navHeader": "Navigation",
+    "nav1": "Additional insulation to a base floor with a crawl space",
+    "nav2": "Changing the insulators of a base floor with a crawl space",
+    "nav3": "Replacing impressed insulators of a base floor with a crawl space",
+    "nav4": "Changing the insulators for a floor with a slab-on-grade",
+    "nav5": "Improving the ground frost guard",
+    "nav6": "Taping the vapour barrier",
+
+
+
+
+    "addingInsulationTab2text1": "  ",
+    "addingInsulationTab3text1": "  ",
+
+    "addingInsulationHeader1text1": "Improves the thermal insulation of the building slightly by increasing insulation. Can be installed below the floor in the crawl space of the building.",
+
+    "addingInsulationHeader2text1": "Slightly improves thermal insulation.",
+
+    "addingInsulationHeader3text1": "No interior modifications are required, so the building can be used during retrofitting work.",
+    "addingInsulationHeader3text2": "The ventilation of the crawl space must be checked and all organic matter against the ground removed.",
+
+    "addingInsulationHeader4text1": "Does not change appearance or character.",
+
+    "addingInsulationRelatedLink1": "ADD LINKS LATER!!",
+
+
+
+
+    "changingInsulationTab2text1": "  ",
+    "changingInsulationTab3text1": "  ",
+
+    "changingInsulationHeader1text1": "Slightly improves the thermal insulation of the building. The new structure must comply with the regulations currently in force with regard to thermal insulation.",
+
+    "changingInsulationHeader2text1": "Demolition work is always required, which significantly increases costs. In order to improve energy efficiency, you should also consider increasing the thickness of the insulation layer.",
+    "changingInsulationHeader2text2": "It is advisable to consider the procedure if the surfaces are going to be renewed anyway.",
+
+    "changingInsulationHeader3text1": "In practice, repairs require emptying the space.",
+    "changingInsulationHeader3text2": "We need to examine the physical functionality of the insulation.",
+    "changingInsulationHeader3text3": "Demolition work on old structures becomes waste that must be disposed of properly. In addition, the new insulation may accumulate over the decades. The bottom base insulations must be installed carefully and tightly to avoid possible air leakage from the bottom bottom.",
+
+    "changingInsulationHeader4text1": "Always changes the nature of the interior, as the old surface layers will have to be demolished during renovation.",
+    "changingInsulationHeader4text2": "In the case of a historical site, you must contact the museum authorities and building control before taking any action.",
+
+    "changingInsulationRelatedLink1": "ADD LINKS LATER!!",
+
+
+
+
+    "impressedInsulationTab2text1": "  ",
+    "impressedInsulationTab3text1": "  ",
+
+    "impressedInsulationHeader1text1": "Slightly improves the thermal insulation of the building.",
+
+    "impressedInsulationHeader2text1": "Slightly improves thermal insulation. It is advisable to take add this retrofit measure if the floor surface structures are being renewed.",
+    "impressedInsulationHeader2text2": "It mainly applies to traditional puruer-like floors.",
+    "impressedInsulationHeader2text3": "Demolition work is always required, which significantly increases costs. ",
+
+    "impressedInsulationHeader3text1": "The building cannot be used during retrofitting work.",
+    "impressedInsulationHeader3text2": "We need to examine the physical functionality of the insulation.",
+
+    "impressedInsulationHeader4text1": "Always changes the nature of the building, as the old surface floors will have to be demolished during renovation.",
+    "impressedInsulationHeader4text2": "In the case of a historical site, you must contact the museum authorities and building control before taking any action.",
+
+    "impressedInsulationRelatedLink1": "ADD LINKS LATER!!",
+
+
+
+
+    "changingInsulationSoGTab2text1": "  ",
+    "changingInsulationSoGTab3text1": "  ",
+
+    "changingInsulationSoGHeader1text1": "Significantly improves the thermal insulation of the building. The new structure must comply with the regulations currently in force with regard to thermal insulation.",
+
+    "changingInsulationSoGHeader2text1": "This retrofitting work is very expensive and in practice it means the structures are renewed. ",
+
+    "changingInsulationSoGHeader3text1": "Repairs require emptying the space.",
+    "changingInsulationSoGHeader3text2": "We need to examine the physical functionality of the insulation.",
+    "changingInsulationSoGHeader3text3": "Demolition work on old structures becomes waste that must be disposed of properly.",
+    "changingInsulationSoGHeader3text4": "Large carbon footprint.",
+
+    "changingInsulationSoGHeader4text1": "Always changes the nature of the interior, as the old surface layers will have to be demolished during renovation.",
+    "changingInsulationSoGHeader4text2": "In the case of a historical site, you must contact the museum authorities and building control before taking any action.",
+
+    "changingInsulationSoGRelatedLink1": "ADD LINKS LATER!!",
+
+
+
+
+    "improvingGFGTab2text1": "  ",
+    "improvingGFGTab3text1": "  ",
+
+    "improvingGFGHeader1text1": "Slightly improves the thermal insulation of the building. This measure is recommended if there is a need to correct the functionality of dewatering, for example, outside the building.",
+
+    "improvingGFGHeader2text1": "Slightly improves thermal insulation.",
+    "improvingGFGHeader2text2": "Earthmoving work is required, so the cost can be high.",
+
+    "improvingGFGHeader3text1": "No interior modifications are required, so the building can be used during retrofitting work.",
+
+    "improvingGFGHeader4text1": "Does not significantly change the nature of the building.",
+
+    "improvingGFGRelatedLink1": "ADD LINKS LATER!!",
+
+
+
+
+    "tapingVBarrierTab2text1": "  ",
+    "tapingVBarrierTab3text1": "  ",
+
+    "tapingVBarrierHeader1text1": "Improves thermal insulation, prevents heat leakage and reduces the feeling of draught. Particular attention should be paid to the airtightness of the interfaces between the floor and the walls. It may be a necessary measure, for example, if there is excessive radon in the building.",
+
+    "tapingVBarrierHeader2text1": "It is advisable to consider the procedure if the surfaces are going to be renewed anyway.",
+
+    "tapingVBarrierHeader3text1": "Reducing the feeling of bet significantly improves user comfort.",
+    "tapingVBarrierHeader3text2": "The technical service life of the existing structure (e.g. vapour shut-off film) must be checked.",
+    "tapingVBarrierHeader3text3": "We need to examine the physical functionality of the insulation.",
+
+    "tapingVBarrierHeader4text1": "  ",
+
+    "tapingVBarrierRelatedLink1": "ADD LINKS LATER!!"
+}

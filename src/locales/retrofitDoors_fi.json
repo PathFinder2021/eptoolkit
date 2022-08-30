@@ -1,0 +1,154 @@
+{
+    "header1": "Tehostetaan ulko-ovien toimintakykyä",
+    "box1Header1": "Yleiskatsaus",
+    "box1Text1": "Teksti b1",
+    "box1Text2": "Teksti b2",
+    "box1Text3": "Teksti b3",
+    "box1subheader1": "Ovien korjaaminen ja korvaaminen",
+    "box1Text4": "Teksti b5",
+    "box1subheader2": "Oven avautinen",
+    "box1Text5": "Oviaukkojen lisäyksillä on visuaalinen vaikutus, mutta ne eivät vaikuta itse oviin.",
+
+    "box2Header1": "Vaihda vanhan oven tilalle uusi, tiivis, vetämätön ovi",
+    "box2Text1": "Tilalle vaihdetaan uudet, nykymääräysten mukaiset ulko-ovet.",
+
+    "box3Header1": "Eristetään ovet sisäisesti",
+    "box3Text1": "Olemassa olevat ovet korjataan ja samalla sisälle lisätään eristettä.",
+
+    "box4Header1": "Lisätään oviin suojausta vedolta",
+    "box4Text1": "Olemassa olevat ovet korjataan ja niitä tiivistetään.",
+
+    "box5Header1": "Lisää paksut verhot ovien sisäpuolelle",
+    "box5Text1": "Paksut verhot vähentävät vedon tunnetta.",
+
+    "box6Header1": "Lisää toinen ulko-ovi",
+    "box6Text1": "Lisätään toinen ovi ulko-ovien ulkopuolelle.",
+
+    "box7Header1": "Lisätään tuulikaappi ulkoisesti",
+    "box7Text1": "Lisätään tuulikaappi rakennukseen. ",
+
+    "box8Header1": "Lisätään tuulikaappi sisäisesti",
+    "box8Text1": "Lisätään tuulikaappi rakennukseen.",
+
+    "navHeader": "Navigaatio",
+    "nav1": "Korvaa uudella ovella",
+    "nav2": "Eristetään ovet sisäisesti",
+    "nav3": "Lisätään oviin suojausta vedolta",
+    "nav4": "Lisätään paksut verhot sisälle",
+    "nav5": "Lisätään toinen ulko-ovi",
+    "nav6": "Ulkoinen tuulikaappi",
+    "nav7": "Sisäinen tuulikaappi",
+        
+
+
+
+    "replaceDoorTab2text1": "Teksti b6",
+    "replaceDoorTab3text1": "Teksti b7.",
+
+    "replaceDoorHeader1text1": "Tilalle vaihdetaan uudet, nykymääräysten mukaiset ulko-ovet.",
+
+    "replaceDoorHeader2text1": "Ovet ovat kalliita rakennusosia. Energiatehokkuus voi parantua hyvinkin merkittävästi, varsinkin paremman tiiveyden ansiosta.",
+
+    "replaceDoorHeader3text1": "Vedontunne vähenee.",
+
+    "replaceDoorHeader4text1": "Muuttaa sekä ulko- että sisätilojen luonnetta. Oltava yhteydessä rakennusvalvontaan ja museoviranomaisiin.",
+
+    "replaceDoorRelatedLink1": "Linkit lisätään myöhemmin",
+
+
+
+
+    "insulateInternallyTab2text1": " ",
+    "insulateInternallyTab3text1": " ",
+
+    "insulateInternallyHeader1text1": "Olemassa olevat ovet korjataan ja samalla sisälle lisätään eristettä.",
+
+    "insulateInternallyHeader2text1": "Energiatehokkuus voi parantua merkittävästi, varsinkin paremman tiiveyden ansiosta.",
+
+    "insulateInternallyHeader3text1": "Vedontunne vähenee.",
+
+    "insulateInternallyHeader4text1": "Muuttaa sisätilojen luonnetta. Oltava yhteydessä rakennusvalvontaan ja museoviranomaisiin.",
+
+    "insulateInternallyRelatedLink1": "ADD LINKS LATER!!",
+
+
+
+
+    "draughtProofingTab2text1": " ",
+    "draughtProofingTab3text1": " ",
+
+    "draughtProofingHeader1text1": "Olemassa olevat ovet korjataan ja niitä tiivistetään. Esimerkiksi karmien ja ovilevyjen väliin asennetaan tiivisteet.",
+
+    "draughtProofingHeader2text1": "Energiatehokkuus paranee varsinkin paremman tiiveyden ansiosta.",
+
+    "draughtProofingHeader3text1": "Vedontunne vähenee.",
+
+    "draughtProofingHeader4text1": "Ei muuta sisätilojen luonnetta.",
+
+    "draughtProofingRelatedLink1": "Tämä on ensisijainen ratkaisu sen helppouden ansiosta.",
+
+
+
+
+    "draughtCurtainTab2text1": " ",
+    "draughtCurtainTab3text1": " ",
+
+    "draughtCurtainHeader1text1": "Paksut verhot vähentävät vedon tunnetta. Ei käytössä Suomessa.",
+
+    "draughtCurtainHeader2text1": "Vaikutus energiatehokkuuteen on vähäinen.",
+
+    "draughtCurtainHeader3text1": "Vedontunne vähenee hieman.",
+
+    "draughtCurtainHeader4text1": "Muuttaa mahdollisesti sisätilojen luonnetta.",
+
+    "draughtCurtainRelatedLink1": "ADD LINKS LATER!!",
+
+
+
+
+    "stormDoorTab2text1": " ",
+    "stormDoorTab3text1": " ",
+
+    "stormDoorHeader1text1": "Lisätään toinen ovi ulko-ovien ulkopuolelle. Ei käytössä Suomessa.",
+
+    "stormDoorHeader2text1": "Energiatehokkuus paranee merkittävästi.",
+
+    "stormDoorHeader3text1": "Vedontunne vähenee merkittävästi.",
+    "stormDoorHeader3text2": "Pidentää varsinaisen ulko-oven elinikää.",
+
+    "stormDoorHeader4text1": "Muuttaa ulkotilojen luonnetta.",
+
+    "stormDoorRelatedLink1": "Peruskorjausratkaisuna suositeltava.",
+
+
+
+
+    "draughtLobbyExternalTab2text1": " ",
+    "draughtLobbyExternalTab3text1": " ",
+
+    "draughtLobbyExternalHeader1text1": "Lisätään tuulikaappi rakennukseen. Käytännössä kaikissa pohjoisen arktisen alueen rakennuksissa on ns. tuulikaappi.",
+
+    "draughtLobbyExternalHeader2text1": "Energiatehokkuus paranee merkittävästi. Mahdollisesti kallis ratkaisu.",
+
+    "draughtLobbyExternalHeader3text1": "Lämmöneristävyys paranee ja vedontunne vähenee merkittävästi.",
+
+    "draughtLobbyExternalHeader4text1": "Muuttaa rakennuksen luonnetta.",
+
+    "draughtLobbyExternalRelatedLink1": "Peruskorjausratkaisuna suositeltava, mikäli tämä on mahdollista toteuttaa rakennuksen historia huomioiden.",
+
+
+
+
+    "draughtLobbyInternalTab2text1": " ",
+    "draughtLobbyInternalTab3text1": " ",
+
+    "draughtLobbyInternalHeader1text1": "Lisätään tuulikaappi rakennukseen. Käytännössä kaikissa pohjoisen arktisen alueen rakennuksissa on ns. tuulikaappi.",
+
+    "draughtLobbyInternalHeader2text1": "Energiatehokkuus paranee merkittävästi. Mahdollisesti kallis ratkaisu.",
+
+    "draughtLobbyInternalHeader3text1": "Lämmöneristävyys paranee ja vedontunne vähenee merkittävästi.",
+
+    "draughtLobbyInternalHeader4text1": "Muuttaa rakennuksen luonnetta.",
+
+    "draughtLobbyInternalRelatedLink1": "Peruskorjausratkaisuna suositeltava, mikäli tämä on mahdollista toteuttaa rakennuksen historia huomioiden."
+}

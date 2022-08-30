@@ -1,0 +1,36 @@
+.nav {
+  box-sizing: content-box;
+  width: 10.5vw;
+  justify-content: left;
+  transition: all .2s ease;
+  @media only screen and (max-width: 1919px) {
+    width: 15.5vw;
+  }
+}
+.scrolled {
+  position: fixed;
+  top: 20vw;
+}
+.navHeader {
+  color: black;
+  font-size: 1.4em;
+  padding: 2% 7%;
+}
+ul {
+  list-style-type: none;
+  margin: 7%;
+  padding: 0;
+
+  li.menu-item {
+    margin-bottom: 0.7em;   
+  }
+
+  li a {
+    color: black;
+    font-size: 1.2em;
+
+    &:hover {
+    cursor: pointer;
+    }
+  }
+}

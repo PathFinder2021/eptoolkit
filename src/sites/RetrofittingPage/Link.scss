@@ -1,0 +1,14 @@
+$primaryColor1: #00a0a5;
+$primaryColorHover: #00878b;
+
+a.s_link {
+    color: $primaryColor1;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  a.s_link:hover {
+    cursor: pointer;
+    text-decoration: underline;
+    color: $primaryColorHover;
+  }

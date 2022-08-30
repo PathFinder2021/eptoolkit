@@ -1,0 +1,53 @@
+{
+    "header1": "...energy supply",
+    "box1Header1": "Overview",
+    "box1Text1": "Text L1",
+    "box1Text2": "Text L1",
+    "box1Text3": "Text L1",
+    "box1subheader1": " Energy supply text 1",
+    "box1Text4": "Text L1",
+    "box1subheader2": " Energy supply text 2",
+    "box1Text5": "Text L1",
+
+    "box2Header1": "Connection to electricity network",
+    "box2Text1": "Text L1",
+
+    "box3Header1": "Generator",
+    "box3Text1": "Text L1",
+
+    "navHeader": "Navigation",
+    "nav1": "Electricity network",
+    "nav2": "Generator",
+
+
+
+
+    "electricityNetworkTab2text1": "FI Text L1",
+    "electricityNetworkTab3text1": "FI Text L1",
+
+    "electricityNetworkHeader1text1": "FI Text L1",
+
+    "electricityNetworkHeader2text1": "FI Text L1",
+
+    "electricityNetworkHeader3text1": "FI Text L1",
+
+    "electricityNetworkHeader4text1": "FI Text L1",
+
+    "electricityNetworkRelatedLink1": "FI ADD LINKS LATER!!",
+
+
+
+
+    "generatorTab2text1": "Text L1",
+    "generatorTab3text1": "Text L1",
+
+    "generatorHeader1text1": "Text L1",
+
+    "generatorHeader2text1": "Text L1",
+
+    "generatorHeader3text1": "Text L1",
+
+    "generatorHeader4text1": "Text L1",
+
+    "generatorRelatedLink1": "ADD LINKS LATER!!"
+}

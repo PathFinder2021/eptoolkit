@@ -1,0 +1,38 @@
+{
+    "header1": "ENERGY PATHFINDER",
+    "subheader1": "Peruskorjataan historiallisia rakennuksia kestävästi",
+
+    "tab1": "Yleiskatsaus",
+    "tab2": "Peruskorjaus",
+    "tab3": "Projektisi",
+    "tab4": "Mallitapauksia",
+
+    "tab1text1": "Tämä nettikirjasto auttaa ymmärtämään historiallisten rakennusten peruskorjaamista ja niiden energiatehokkuuden sekä kestävyyden edistämistä Pohjois-Euroopassa - unohtamatta sitä, mikä tekee niistä kulttuurillisesti tärkeitä. Kuka tahansa historiallisten rakennusten peruskorjaamisesta kiinnostunut voi hyödyntää kirjastoa. Teknistä tietämystä ei tarvita, ainoastaan innostusta tutkimiseen.",
+    "tab1text2": "Tämän kirjaston avulla voidaan tutkia peruskorjausratkaisuja kaikenlaisiin rakennuksiin niiden iästä ja käyttötarkoituksesta riippumatta. Rakennuksien ei tarvitse olla kulttuurillisesti merkittäviä esimerkiksi suojelutilan perusteella.",
+    "tab1text3": "Kirjasto koostuu kolmesta osasta:",
+    "tab1text4": "Peruskorjauskirjastosta",
+    "tab1text5": ": Valikoima peruskorjausratkaisuja selailtavaksi ja opittavaksi, tekniset- ja rakennusperinnölliset seikat otetaan myös huomioon",
+    "tab1text6": "Projektisuunnittelusta",
+    "tab1text7": ": Interaktiivinen työkalu rakennukseesi sopivien ratkaisujen tutkimiseksi ja räätälöimiseksi",
+    "tab1text8": "Mallitapauksista",
+    "tab1text9": ": Linkkejä valikoituihin resursseihin, joista löytää aiheeseen sopivia esimerkkejä rakennussuojelusta sekä teknisistä keskusteluista",
+    "tab1text10": "Tämä nettikirjasto tarjoaa yleisluontoisia ja käytännönläheisiä neuvoja rakennussuojelusta ja peruskorjauksesta. Se on apuväline peruskorjausratkaisuista oppimiseen ja niiden suunnittelemiseksi. Kirjasto ei laske energiankulutusta tai hiilipäästöjä, eikä se myöskään korvaa ammattilaisneuvoja ja vaadittuja lakipäätöksiä.",
+    "tab1text11": "Tekijät: Pekka Alaluukas, Caroline Akiboye, Bárður Í Baianstovu, Simon Conolly, Caitriona Courtney, Roger Curtis, Kenneth Easson, Carsten Hermann, Sami Jouppila, Miikka Kortelainen, Markus Leinonen, Kevin McCartney, Gireesh Nair, Anne Schmidt, Kai Tolonen, Ville Vaara ja Jose Ospina",
+    
+    "tab2text1": "Tarkoitetaan laajasti ottaen kaikkea toimintaa, jolla rakennuksen tai sen osien kuntoa ylläpidetään tai parannetaan paremmin soveltumaan tarkoitukseensa. Korjausrakentamista on esim. ",
+    "tab2text2": "kunnossapito, kunnostus, peruskorjaus, saneeraus, perusparannus ",
+    "tab2text3": "ja ",
+    "tab2text4": "restaurointi.",
+    "tab2text5": "Painaessasi peruskorjausratkaisuihin-painiketta pääset eteenpäin tutkimaan eri vaihtoehtoja.",
+    "tab2button": "Peruskorjausratkaisuihin",
+
+    "tab3text1": "Projektisuunnitelmaosiossa voit syöttää oman rakennuskohteesi tietot ja selvittää, mitkä jälkiasennustoimenpiteet ovat järkeviä tai ylipäätään mahdollisia toteuttaa.",
+    "tab3text2": "",
+    "tab3button1": "Lisää uusi projekti",
+    "tab3button2": "Tarkastele projektejasi",
+
+    "tab4text1": "Esimerkkirakennusosiossa voi tarkastella esimerkkikohteisiin tehtyjä jälkiasennusratkaisuja, jotka parantavat historiallisen rakennuksen energiatehokkuutta. Sivuilla on myös ohjaus vastaaviin sovelluksiin.",
+    "tab4button": "Mallitapauksiin",
+
+    "OR": ""
+}

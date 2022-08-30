@@ -1,0 +1,74 @@
+{
+    "header1": "...energy storage",
+    "box1Header1": "Overview",
+    "box1Text1": " ",
+    "box1Text2": "  ",
+    "box1Text3": "   ",
+    "box1subheader1": " Energy storage text 1",
+    "box1Text4": " ",
+    "box1subheader2": " Energy storage text 2",
+    "box1Text5": " ",
+
+    "box2Header1": "Biogas",
+    "box2Text1": "Subject to source of suitable biodegradable feedstock (e.g. agricultural waste)",
+
+    "box3Header1": "Hot water thermal stores",
+    "box3Text1": "Rather limited (typically need several cubic metres), unless they exploit phase change, which can increase thermal capacity by an order of magnitude (note that materials of suitable thermal mass can reduce diurnal temperature variation, and some solid building materials such as gypsum plasterboard are now available with phase change materials encapsulated within them; however, these are not commonly available at present)",
+
+    "box4Header1": "Batteries",
+    "box4Text1": "Depending on the value of energy stored and realistic charge-discharge cycle life expectancy, may be difficult to achieve a good payback",
+
+    "navHeader": "Navigation",
+    "nav1": "Biogas",
+    "nav2": "Hot water thermal stores",
+    "nav3": "Batteries",
+
+
+
+
+    "biogasTab2text1": " ",
+    "biogasTab3text1": " ",
+
+    "biogasHeader1text1": "  ",
+
+    "biogasHeader2text1": "  ",
+
+    "biogasHeader3text1": "  ",
+
+    "biogasHeader4text1": "  ",
+
+    "biogasRelatedLink1": "  ",
+
+
+
+
+
+    "hotWaterTab2text1": " ",
+    "hotWaterTab3text1": " ",
+
+    "hotWaterHeader1text1": "  ",
+
+    "hotWaterHeader2text1": "  ",
+
+    "hotWaterHeader3text1": "  ",
+
+    "hotWaterHeader4text1": "  ",
+
+    "hotWaterRelatedLink1": "  ",
+
+
+
+
+    "batteriesTab2text1": " ",
+    "batteriesTab3text1": " ",
+
+    "batteriesHeader1text1": "  ",
+
+    "batteriesHeader2text1": "  ",
+
+    "batteriesHeader3text1": "  ",
+
+    "batteriesHeader4text1": "  ",
+
+    "batteriesRelatedLink1": "  "
+}

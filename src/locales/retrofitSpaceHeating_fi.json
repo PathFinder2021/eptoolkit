@@ -1,0 +1,173 @@
+{
+    "header1": "FI ...space heating",
+    "box1Header1": "Yleiskatsaus",
+    "box1Text1": "j1",
+    "box1Text2": "j2",
+    "box1Text3": "j3",
+    "box1subheader1": " FI Heating text 1",
+    "box1Text4": "j4",
+    "box1subheader2": " FI Heating text 2",
+    "box1Text5": "j5",
+
+    "box2Header1": "Ilmalämpöpumppu",
+    "box2Text1": "Ilmalämpöpumppu on yhä yleisempi uusiutuva lämmitystekniikka, joka toimii siirtämällä lämpöenergiaa ympäristöstä rakennukseen ja lämmittää näin sisätilaa ja tuottaa lämmintä käyttövettä.",
+    
+    "box3Header1": "FI External heat supply: connect to district heating system",
+    "box3Text1": "FI A connection to a communal heating system which typically delivers heat to multiple properties from a centralised source. Within the property this will mean installation of pipework and a heat interface unit (HIU).",
+
+    "box4Header1": "Lämpöpatterit (korkea lämpötila)",
+    "box4Text1": "Perinteinen lämpöpatterijärjestelmä, suunniteltu toimimaan korkeissa lämpötiloissa (60°C - 80°C)",
+
+    "box5Header1": "Lämpöpatterit (matala lämpötila)",
+    "box5Text1": "Perinteinen lämpöpatterijärjestelmä, suunniteltu toimimaan matalissa lämpötiloissa (30°C - 55°C).",
+
+    "box6Header1": "FI Warm air heating",
+    "box6Text1": "FI May not achieve the same level of comfort unless all internal building surfaces are equally warm; humidity control is also important.",
+
+    "box7Header1": "FI Underfloor heating",
+    "box7Text1": "FI Advantageous as this achieves similar comfort levels with lower air temperatures, and hence significantly reduced fabric heat loss.",
+
+    "box8Header1": "FI Stove",
+    "box8Text1": "j6",
+
+    "navHeader": "Navigaatio",
+    "nav1": "Ilmalämpöpumppu",
+    "nav2": "FI Connect to district heating system",
+    "nav3": "Lämpöpatterit (korkea lämpötila)",
+    "nav4": "Lämpöpatterit (matala lämpötila)",
+    "nav5": "FI Warm air heating",
+    "nav6": "FI Underfloor heating",
+    "nav7": "FI Stove",
+
+
+
+
+
+    "airPumpTab2text1": "j7",
+    "airPumpTab3text1": "j8",
+
+    "airPumpHeader1text1": "Lämpöpumput kuluttavat sähköä yhden tai useamman kompressoripiirin käyttöön, jotka siirtävät lämpöä kiinteistöön ulkoisesta ympäristöstä. Ilmalämpöpumppuun kuuluu laite, jossa on lämmönvaihdin ja suuri tuuletin, joka kerää ilmaa ulkopuolelta. Monobloc-järjestelmissä kompressoripiiri on myös itsenäinen tässä yksikössä, kun taas jaetuissa järjestelmissä piirin sisällä kylmäainekaasu kulkee sisäiseen yksikköön virtaus- ja paluuputkien kautta. Lämmöntuottoa voidaan käyttää kanavien lämpimän ilman lämmitykseen, lämpimään käyttöveteen tai alhaisen lämpötilan (tyypillisesti 30°C – 55°C) märkäjakelujärjestelmän, kuten ylimitoitettujen lämpöpattereiden tai märkälattialämmityksen, lämmittämiseen. Saatavilla on ilmalämpöpumppuja, jotka voivat tällä hetkellä tuottaa korkean lämpötilan jakelujärjestelmää (tavanomaisia lämpöpattereiden) tehoa, tällaisten järjestelmien hyötysuhde on huomattavasti alhaisempi, mikä johtaa suurempiin sähkönkulutus- ja käyttökustannuksiin.",
+    "airPumpHeader1text2": "Ilmalämpöpumppujen kustannustehokkuus on yleensä hyvä, erityisesti silloin, kun ne ovat oikeutettuja valtion kannustimiin, jotka voivat hyvittää asennuksesta aiheutuvia kuluja. Käyttökustannukset ovat yleensä verrattavissa halvempiin fossiilisten polttoaineiden lämmönlähteisiin. Alkuperäiset asennuskustannukset vaativat suuren investoinnin, joka voi olla este käytettävissä olevista taloudellisista resursseista riippuen.",
+    "airPumpHeader1text3": "Tällä hetkellä vanhempien rakennusten lämpöpumppulaitteistojen keskeinen tekninen rajoite on saavuttaa riittävä lämmöntuotto matalan lämpötilan jakelujärjestelmällä, jotta rakennus voidaan saattaa haluttuun sisälämpötilaan suunnitteluolosuhteissa. Rakennuksessa, jossa on suuri lämpöhäviö, tämä voidaan saavuttaa ylimitoittamalla lämmönlähettimiä, parantamalla ilman kireyttä ja jälkiasentamalla kangaseristystä. Kaikista näistä aiheutuu kuitenkin lisäkustannuksia ja joissakin tapauksissa lämpöpumppu voi olla epäkäytännöllinen.",
+    "airPumpHeader1text4": "Huoltovaatimukset vaihtelevat, mutta yleensä lämpöpumput ovat vähän huoltoa vaativia, ne vaativat vuosittaisen silmämääräisen tarkastuksen ja merkittävämmän huollon 3–5 vuoden välein. Vaikka lämpöpumput olivat aikoinaan erikoistunutta teknologiaa, ne ovat nykyään yleistymässä, minkä seurauksena on isompi määrä päteviä ammattilaisia, jotka voivat suorittaa huollot.",
+
+    "airPumpHeader2text1": "Ilmanlähdelämpöpumpun jälkiasennuksen suojeluhaasteita ovat märkäjakelujärjestelmän muuttamisesta tai asentamisesta johtuvat historiallisten sisätilojen häiriöt sekä ulkoisen yksikön visuaalinen vaikutus. Jos on olemassa historiallisia sisäpuolisia viimeistelyjä tai ikkunoita, riittävän eristyksen jälkiasennus lämpöpumpun teknisesti kannattavaksi vaihtoehdoksi voi myös olla haastavaa.",
+
+    "airPumpHeader3text1": "Ilmalämpöpumppu voi tuottaa hiiltä kehittyneiden uusien laitoslaitteiden asennuksen vuoksi. Erityisesti silloin, kun fossiilisia polttoaineita käyttävä kattila tai suurihiilinen sähkölämmitysjärjestelmä vaihdetaan, tämä hiiliinvestointi korvataan harmaan energian siirtymällä.",
+    "airPumpHeader3text2": "On myös syytä huomata, että monoblokkijärjestelmä saattaa olla parempi kuin jaettu järjestelmä kestävyyssyistä. Tämä johtuu siitä, että monobloc-järjestelmään liittyy paljon pienempi kylmäainekaasun karkaamisen riski, koska kompressoripiiri on suljettu tehtaalla sen sijaan, että se tehdään paikan päällä. Tässä on se etu, että asentajaa ei tarvitse sertifioida toimimaan kylmäainekaasujen kanssa, minkä vuoksi asennus voi olla halvempi.",
+
+    "airPumpHeader4text1": "Jos suunnittelun laatu on tärkeä näkökohta, on harkittava huolellisesti estetiikan ja toimivuuden tasapainottamista. Ilmalämpöpumppu voidaan laittaa mille tahansa rakennuksen ulkoseinistä, mutta se hyötyy tehokkuuden paranemisesta, kun se asetetaan korkeuteen, jossa se saa jonkin verran aurinkoa. Etelään päin oleva seinä on paras. Voi myös olla viisasta harkita rakennuksen putkistojen nykyistä sijoittelua, jotta voidaan minimoida sisäiset häiriöt, jotka johtuvat uudelleenjärjestelystä, kun lämmitysjärjestelmää vaihdetaan.",
+    "airPumpHeader4text2": "Tätä peruskorjausratkaisua ei kannata harkita suljettuille alueille tai sisäpihoille, joilla ei ole kunnollista ilmavirtaa. Lämpöpumppu jäähdyttää tällaiset alueet nopeasti, mikä johtaa huonoon tehokkuuteen. Samasta syystä ilmalämpöpumppua ei saa sijoittaa koteloon, joka rajoittaa laitteen läpi kulkevaa ilmavirtaa. Näin käy myös silloin, kun kotelo näyttää olevan hyvin tuuletettu esimerkiksi suurten tuuletusaukkojen kautta. Älä tee tätä!",
+
+    "airPumpRelatedLink1": "FI ADD LINKS LATER!!",
+
+
+
+
+    "districtHeatingTab2text1": "j9",
+    "districtHeatingTab3text1": "j10",
+
+    "districtHeatingHeader1text1": "FI District heating networks have been common in parts of Europe for decades now and are growing in number and scale in response to the need for scalable low carbon heating solutions. The typical system delivers heat from a central source to multiple different properties which can be a mix of domestic and non-domestic premises. Schemes can range from communal boilers serving fewer than a dozen homes to megawatt scale installations serving thousands of properties. Heat sources include fossil fuels, biomass, heat pumps, geothermal heat, waste-to-energy incinerators, and waste heat from industrial processes.",
+    "districtHeatingHeader1text2": "FI Typically, the heat is distributed by a subterranean network of insulated pipework and individual dwellings are equipped with a small appliance about the size of a domestic boiler called a heat interface unit (HIU); though it should be noted that larger buildings on a district heating network will generally have bespoke heat exchange equipment rather than a standard unit. Whether standard or bespoke, this interface equipment safely transfers heat from the district circuit into the property’s heating system via one or more heat exchangers and will usually also contain metering apparatus which the network operator will use to bill network members for heat. This is not necessarily always the case however, with some networks billing users per unit (kWh) while others provide unlimited heat for a fixed fee, though this latter type is increasingly unusual. Inside a given property a district heating powered system functions much like any other with space heating delivered either via a wet distribution system (radiators or underfloor heating) or via warm air ducts; and hot water via one or more insulated cylinders.",
+    "districtHeatingHeader1text3": "FI Before committing to a district heating connection, careful consideration must be given to the ongoing implications of membership in a district heating scheme. As a district heating system is a natural monopoly, scrutiny should be applied to the proposed contractual arrangements which will govern your membership. In particular:",
+    "districtHeatingHeader1text4": "FI What safeguards exist against unreasonable price increases?",
+    "districtHeatingHeader1text5": "FI Are there financial penalties and what is the process for disconnecting?",
+    "districtHeatingHeader1text6": "FI Is there a route for scheme members to replace the network operator if unsatisfied?",
+    "districtHeatingHeader1text7": "FI It may also be prudent to familiarise yourself with the relevant legal frameworks governing the operation and membership of district heating networks in your national or regional context.",
+
+    "districtHeatingHeader2text1": "FI In the vast majority of cases the impact of a district heating connection will be near zero, especially where this replaces a previous heating system. In some cases, where a heat pump is the potential alternative for example, a district heating connection may be especially advantageous from a heritage standpoint as it can potentially offer a low carbon heating solution capable of powering a high-temperature wet distribution system (e.g. conventional radiators), potentially avoiding the fabric disruption entailed by replacement with a low-temperature system. It should be noted however that not all district heating systems operate at high temperature, meaning that it is advisable to also verify this detail for your particular local scheme.",
+
+    "districtHeatingHeader3text1": "FI A district heating connection may be said to have excellent sustainability credentials as it essentially shares a single set of plant equipment amongst all members of the scheme. This avoids the embodied carbon that would result from each property having its own individual plant equipment. It is also worth noting that even where a district heating system is presently powered by fossil fuel there is a reasonable chance that a connection will prove to be the most sustainable option in the long term. This is because the centralised nature of a district heating network typically makes it easier to decarbonise from a technical and economic standpoint than a heating system for an individual property.",
+    "districtHeatingHeader3text2": "Kaukolämmön tuotantotapa ja polttoaineet vaihtelevat huomattavasti paikkakunnittain. Siten myös käytettyyn kaukolämpöenergiaan liittyvät ominaispäästöt vaihtelevat huomattavasti. Tähän vaikuttaa käytettyjen polttoaineiden lisäksi kaukolämmön ja sähkön yhteistuotannon osuus tuotetusta kaukolämmöstä ja päästöjen jakotapa. Erityisesti suurissa kaupungeissa kaukolämmön tuotanto perustuu lähes täysin kaukolämmön ja sähkön yhteistuotantoon, kun taas useilla pienillä paikkakunnilla kaukolämpö tuotetaan lämpökeskuksissa erillistuotantona.",
+
+    "districtHeatingHeader4text1": "FI There is little in the way of design choice when it comes to a district heating connection. Design options are likely to be limited to the configuration of pipework, the location of the HIU or heat exchange equipment, and whether the concealing cabinet ought to be finished in oak or pine.",
+
+    "districtHeatingRelatedLink1": "FI ADD LINKS LATER!!",
+
+
+
+
+    "radHighTab2text1": "j11",
+    "radHighTab3text1": "j12",
+
+    "radHighHeader1text1": "Perinteinen lämpöpatterijärjestelmä toimii kierrättämällä kuumaa vettä, yleensä lämpökattilalla lämmitettyä, tulo- ja menoputkiston kautta tuottaakseen lämpöä pattereille, jotka ovat yksinkertaisesti kuumavesisäiliöitä, joilla on iso pinta-ala. Nämä vapauttavat lämpöä vedestä ilmaan konvektion avulla, lämmittäen huoneen ilmaa esineiden ja ihmisten sijasta.",
+    "radHighHeader1text2": "Asennettaessa uutta patteria jälkiasennuksena, on kannattavaa miettiä tarkasti millä lämpötilalla patterin kannattaisi toimia, sillä korkeissa- (tyypillisesti 60°C - 80°C) sekä matalissa (tyypillisesti 30°C - 55°C) lämpötiloissa on molemmissa eri etuja.",
+    "radHighHeader1text3": "Korkealla lämpötilalla toimivat patterit ovat sopivammat, kun tilaa on vähän tai rakennuksen eristykset ovat huonot. Tämä johtuu siitä, että korkealla lämpötilalla toimivat patterit vapauttavat enemmän lämpöä suhteessa pinta-alaan, joka tarkoittaa sitä, että saman lämpötilan saavuttamiseksi tarvitaan vähemmän tai pienempiä pattereita. Lämmöntuottavuuden erot ovat merkittävät; esimerkiksi patteri, joka operoi 40°C, tuottaa vain 30 % lämmöstä mitä sama patteri tuottaa 70°C toiminnalla.",
+    "radHighHeader1text4": "Päinvastoin pääetuna matalalla lämmöllä toimivan patterin asennuksena on se, että se on yhteensopiva lämpöpumpun kanssa. Vaikka korkealämpöpumppuja on olemassa, ne ovat paljon vähemmän tehokkaita kuin niiden matalalämpö vastaavat, sekä nykyisellä teknologialla ne ovat kalliita ylläpitää. Termodynamiikan luonteen vuoksi tämä fakta ei todennäköisesti tule muuttumaan, vaikka kaikkien lämpöpumppujen tehokkuus kasvaisikin ajan myötä. Yksinkertaisesti sanottuna, korkealämpöpumpun tulee aina ylittää korkeampi lämpösilta kuin matalalämpöpumpun. Matalalämpöpumpun hyvä puoli on myös turvallisuus, sillä matalan lämpötilan vuoksi palamisen riski on huomattavasti pienempi. Tämä on huomattava hyöty rakennuksissa missä on lapsia tai suojattomia ihmisiä.",
+
+    "radHighHeader2text1": "Uuden lämmitysjärjestelmän asentamisen kulttuurilliset vaikutukset ovat monimutkaisia. Toisaalta huomattavia sisäisiä häiriöitä on odotettavissa, sillä asentaminen vaatii pääsyä seinien ja lattian sisään, sekä patterit itse on asennettava huoneisiin. Toisaalta on mahdollista saada suojelutoimi tukea, kun asentaa rakennuksen ajankohtaan sopivia vanhoja tai imitaatio lämmittimiä.",
+
+    "radHighHeader3text1": "Kestävyyden kannalta on suhteellisen vähän pohdittavaa. Tällainen järjestelmä aiheuttaa jonkin verran hiilidioksidia, mutta huolen ei pitäisi olla suuri, sillä järjestelmän käyttöikä on pitkä. Tekniseltä kannalta, lämpöpatterijärjestelmän asentaminen rakennukseen, jossa ei ole aikaisemmin ollut tehokasta lämmitysjärjestelmää, parantaa todennäköisesti rakennuksen yleistä kuntoa ajan myötä parantamalla rakenteen kykyä siirtää kosteutta ulkoiseen ympäristöön.",
+
+    "radHighHeader4text1": "Suunnitteluvaihtoehtoja patterijärjestelmään on monia ja erilaisia, ja ”sisustuslämmittimiä” on saatavissa mihin tahansa sisustuksen. Lämmittimistä voidaan tehdä mahdollisimman huomaamattomia valitsemalla huoneeseen sulautuvia yksiköitä tai tehdä niistä sisustukseen näyttäviä osia valitsemalla esimerkiksi rohkea ”sisustuspatteri”, jossa on kromi- tai grafiittipinnoite. Kuten aikaisemmin mainittiin, voidaan käyttää myös edellisten vuosikymmenten kierrätys- tai jäljitelmäpattereita riippuen halutusta tunnelmasta. Vaihtoehtona on myös naamioida patterit kokonaan käyttämällä säleikköjä tai tuuletettuja puisia päällysteitä tai ne voidaan piilottaa esimerkiksi listoihin. Tällaiset vaihtoehdot voivat olla toivottuja, mutta niistä kuuluu keskustella asentajan kanssa ja niitä on harkittava tarkkaan, koska lämmönjako on niissä väistämättä huonompi.",
+
+    "radHighRelatedLink1": "FI ADD LINKS LATER!!",
+
+
+
+
+    "radLowTab2text1": "j13",
+    "radLowTab3text1": "j14",
+
+    "radLowHeader1text1": "FI A conventional radiator system functions by circulating hot water, typically heated by a boiler, through a system of flow and return pipes to provide heat to radiators, which are essentially small hot water tanks with a large surface area. These release heat from the water in the heating circuit into living spaces principally by convection, warming the air in the room rather than objects or occupants directly, and also to a much lesser degree by radiation.",
+    "radLowHeader1text2": "FI When installing a new radiator system as a retrofit measure it is worth considering carefully what the design operating temperature of the radiators should be as there are advantages to both a high temperature (typically 60°C to 80°C) and low temperature (typically 30°C to 55°C) setup.",
+    "radLowHeader1text3": "FI Where space is at a premium, or where the thermal performance of building fabric is relatively poor, high temperature radiators are likely to be more suitable. This is because radiators operating at high temperature output far more heat per surface area, meaning that achieving the same heat output to a given room requires fewer and/or smaller radiators. The difference in heat output is considerable; for example, a radiator at 40°C will output only 30% of the heat that the same radiator would output at 70°C.",
+    "radLowHeader1text4": "FI Conversely, the main advantage of installing a system designed to operate at low temperature is that the system will be compatible with a heat pump. Whilst high temperature heat pumps do exist, they are much less efficient than their low temperature equivalents and with present technology this is likely to entail high running costs. Whilst the efficiency of all heat pumps is likely to improve over time with advancing technology this basic fact is highly likely to remain true by virtue of thermodynamics. Put simply, a high temperature heat pump will always have to bridge a greater thermal gradient than a low temperature heat pump. Low temperature radiators also carry the additional benefit of creating a safer indoor environment as they present a lesser risk of burns, this is of particular benefit if the building is likely to be used by children or vulnerable persons.",
+
+    "radLowHeader2text1": "FI The heritage implications of installing a new radiator system are complex. On one hand, considerable internal disruption is to be expected as installing radiators and pipework will require access below floors, behind walls, and radiators themselves will have to be fitted to rooms. On the other hand, there is potential for conservation gain by installation of salvaged or imitation radiators appropriate to the period of the building.",
+
+    "radLowHeader3text1": "FI There is comparatively little to consider about a radiator system from a sustainability point of view. Such a system will entail some amount of embodied carbon but this should be of little concern as the lifetime of a system is generally very long. From a technical standpoint, installation of a radiator system in a building which has previously lacked an effective heating system is likely to improve the overall health of the fabric over time by enhancing the ability of the structure to shed moisture to the external environment.",
+    "radLowHeader3text2": "FI Design options for a radiator system are many and varied, with designer radiators available to suit any interior design imaginable. Radiators therefore can be made as unobtrusive as possible by selecting units which blend into the room, or can be made an ostentatious feature of the internal decor by selecting a bold designer radiator with a chrome or graphite finish for example. As mentioned above, salvaged or imitation radiators in the style of previous decades can also be used depending on the desired feel. There are also options to conceal radiators entirely, using louvred or ventilated wooden coverings, or by their concealment in skirting boards for example. Such options may be desirable but should be discussed with the installer and considered carefully as they will inevitably come at the cost of less effective distribution of heat into the room.",
+
+    "radLowHeader4text1": "FI The principle conservation challenges when retrofitting an air source heat pump will be disruption of historic interiors resulting from modification or installation of a wet distribution system, and the visual impact of the external unit. If historic interior finishes or windows are present the retrofit of sufficient insulation to make a heat pump a technically viable option may also represent a constraint.",
+
+    "radLowRelatedLink1": "FI ADD LINKS LATER!!",
+
+
+
+
+    "warmAirTab2text1": "j15",
+    "warmAirTab3text1": "j16",
+
+    "warmAirHeader1text1": "j17",
+
+    "warmAirHeader2text1": "j18",
+
+    "warmAirHeader3text1": "j19",
+
+    "warmAirHeader4text1": "j20",
+
+    "warmAirRelatedLink1": "FI ADD LINKS LATER!!",
+
+
+
+
+    "underfloorTab2text1": "j21",
+    "underfloorTab3text1": "j22",
+
+    "underfloorHeader1text1": "j23",
+
+    "underfloorHeader2text1": "j24",
+
+    "underfloorHeader3text1": "j25",
+
+    "underfloorHeader4text1": "j26",
+
+    "underfloorRelatedLink1": "FI ADD LINKS LATER!!",
+
+
+
+
+    "stoveTab2text1": "j27",
+    "stoveTab3text1": "j28",
+
+    "stoveHeader1text1": "j29",
+
+    "stoveHeader2text1": "j30",
+
+    "stoveHeader3text1": "j31",
+
+    "stoveHeader4text1": "j32",
+
+    "stoveRelatedLink1": "FI ADD LINKS LATER!!"
+}

@@ -1,0 +1,116 @@
+{
+    "header1": "...energy generation",
+    "box1Header1": "Overview",
+    "box1Text1": " ",
+    "box1Text2": "",
+    "box1Text3": "",
+    "box1subheader1": " Energy generation text 1",
+    "box1Text4": " ",
+    "box1subheader2": " Energy generation text 2",
+    "box1Text5": " ",
+
+    "box2Header1": "Hydro turbine: microhydro for installation near buildings",
+    "box2Text1": "An uncommon form of renewable microgeneration only viable where there is a suitable watercourse; high energy output at the cost of an expensive installation is typical of this technology.",
+
+    "box3Header1": "Wind turbine",
+    "box3Text1": "Subject to suitable exposed site (average 7m/s wind) and note maintenance costs of small wind turbines",
+
+    "box4Header1": "Solar panels",
+    "box4Text1": " ",
+
+    "box5Header1": "Biomass digester",
+    "box5Text1": "Subject to source of suitable biodegradable feedstock (e.g. agricultural waste) NB also offers possible energy storage",
+
+    "box6Header1": "Biomass for heat generation",
+    "box6Text1": "E.g. wood chips, pellets, short rotation coppicing (subject to sustainable local supply)",
+
+    "navHeader": "Navigation",
+    "nav1": "Hydro turbine",
+    "nav2": "Wind turbine",
+    "nav3": "Solar panels",
+    "nav4": "Biomass digester",
+    "nav5": "Biomass for heat generation",
+
+
+
+
+    "hydroTurbineTab2text1": " ",
+    "hydroTurbineTab3text1": " ",
+
+    "hydroTurbineHeader1text1": "Micro hydro systems are highly variable and there is no such thing as a typical installation for this technology. Systems can range from small Pelton wheels and Francis turbines fed by underground penstocks of varying length, to much larger Archimedes screws replacing long absent waterwheels, or even reinstatement of historic waterwheels to power modern generators.",
+    "hydroTurbineHeader1text2": "The nature of a micro hydro system will overwhelmingly be determined by the nature of the watercourse that powers it. This must have sufficient head (vertical distance over which the energy of the watercourse may be usefully captured) and rate of flow in order for an installation to be technically and financially viable. Larger installations, especially in a domestic setting, may require an upgraded grid connection to safely tolerate the potential export load from the generator.",
+    "hydroTurbineHeader1text3": "Cost effectiveness is also highly variable between micro hydro installations which makes generalisations difficult. Ultimately, this will also be largely determined by the nature of the watercourse. Generally, installation costs are high but the financial return from a well-designed system in the right water course will also be good due to high energy output.",
+    "hydroTurbineHeader1text4": "A micro hydro system will typically require an annual service by a specialist contractor due to wear and tear on moving parts. As with the hardware itself, any warranties or guarantees are often bespoke and should be carefully scrutinised before committing to an installation.",
+
+    "hydroTurbineHeader2text1": "Micro hydro installations are generally not a conservation concern as plant equipment is typically concealed and any pipework buried. In some cases, heritage value can even be enhanced, by reinstatement of a disused waterwheel for example. This is not universal however as some types (such as an Archimedes screw replacing a waterwheel) will have considerable visual impact. Due to their highly variable nature micro hydro systems will almost always require planning consent.",
+
+    "hydroTurbineHeader3text1": "A micro hydro installation will often represent significant embodied carbon due to purchase of new plant equipment and installation works, which may involve pouring concrete or considerable earth moving. Where a system has been well designed and situated however this is likely to be offset by the output of renewable electricity displacing grey power on site and elsewhere in the electrical grid if exported. In a context where grid carbon is already very low, and sustainability is a primary concern, the “carbon budget” of a micro hydro installation should be carefully scrutinised as the carbon payback period in such a scenario may be long.",
+
+    "hydroTurbineHeader4text1": "Design options will sometimes be constrained by the site, principally the nature of the watercourse and its relationship to the building, but in general a micro hydro system can be made very unobtrusive. For example, even where entirely modern equipment is to be used in an entirely new scheme a powerhouse could be constructed of local materials in order to blend in. As mentioned above, even a visible scheme could be rendered highly attractive in a heritage context by opting for a waterwheel rather than a turbine or Archimedes screw.",
+
+    "hydroTurbineRelatedLink1": " ",
+
+
+
+
+
+    "windTurbineTab2text1": " ",
+    "windTurbineTab3text1": " ",
+
+    "windTurbineHeader1text1": " ",
+
+    "windTurbineHeader2text1": " ",
+
+    "windTurbineHeader3text1": " ",
+
+    "windTurbineHeader4text1": " ",
+
+    "windTurbineRelatedLink1": " ",
+
+
+
+
+    "solarPanelsTab2text1": " ",
+    "solarPanelsTab3text1": " ",
+
+    "solarPanelsHeader1text1": " ",
+
+    "solarPanelsHeader2text1": " ",
+
+    "solarPanelsHeader3text1": " ",
+
+    "solarPanelsHeader4text1": " ",
+
+    "solarPanelsRelatedLink1": " ",
+
+
+
+    "biomassDigesterTab2text1": " ",
+    "biomassDigesterTab3text1": " ",
+
+    "biomassDigesterHeader1text1": " ",
+
+    "biomassDigesterHeader2text1": " ",
+
+    "biomassDigesterHeader3text1": " ",
+
+    "biomassDigesterHeader4text1": " ",
+
+    "biomassDigesterRelatedLink1": " ",
+
+
+
+
+    "biomassHeatGenerationTab2text1": " ",
+    "biomassHeatGenerationTab3text1": " ",
+
+    "biomassHeatGenerationHeader1text1": " ",
+
+    "biomassHeatGenerationHeader2text1": " ",
+
+    "biomassHeatGenerationHeader3text1": " ",
+
+    "biomassHeatGenerationHeader4text1": " ",
+
+    "biomassHeatGenerationRelatedLink1": " "
+}

@@ -1,0 +1,108 @@
+$primaryColor1: #00a0a5;
+$primaryColorHover: #00878b;
+$secondaryColor1: #b4dee2;
+$secondaryColorHover: #94c3c7;
+$gray1: #303030;
+$neutralColor1: #b7b9ba;
+$neutralColorHover: #9e9fa0;
+$tabColor: #adf0ad;
+$tabColorHover: #97d497;
+
+$xs: 599px;
+$sm: 959px;
+$md: 1279px;
+$lg: 1919px;
+
+#verticalResults {
+
+  .react-tabs {
+      display: flex;
+      border: 3px solid $primaryColor1;
+      margin: -27px;
+      color: black;
+      background: white;
+    }
+    
+    .react-tabs__tab-list {
+      display: flex;
+      flex-direction: column;
+      font-weight: bold;
+      width: 300px;
+      margin: 0;
+      padding: 0;
+      color: black;
+      background-color: white;
+      font-size: 1.3em;
+      @media only screen and (max-width: $md) {
+        width: 180px;
+        font-size: 1.1em;
+      }
+      @media only screen and (max-width: $sm) {
+        width: 180px;
+        font-size: 1em;
+      }
+    }
+    
+    .react-tabs__tab {
+      height: "auto";   // THIS
+      //list-style: none;
+      //padding: 0px 6px;
+      cursor: pointer;
+      border-left: none;
+      border-right: 3px solid green;
+      margin-left: 0px;
+      margin-right: -3px;
+      background: $tabColor;
+      color: $gray1;
+      border-bottom: 3px solid green;
+    }
+
+    .react-tabs__tab:hover {
+      background-color: $tabColorHover;
+    }
+    
+    .react-tabs__tab--selected, .react-tabs__tab--selected:hover {
+      background: white;
+      //border-color: #1c1d1f;
+      color: black;
+      border-right: none;
+    }
+    
+    .react-tabs__tab-panel {
+      display: none;
+      width: 100%;
+      //padding: 0 12px
+      //align-items: center;
+      //justify: center;
+
+
+      //width: 50%;
+      //margin: 0 auto;
+    }
+    
+    .react-tabs__tab-panel--selected {
+      display: block;
+    }
+    
+    .react-tabs__tab {
+      padding: 0 12px;   //centering tab content
+      @media only screen and (max-width: $md) {
+        padding: 0 auto;
+      }
+    }
+    
+    .react-tabs__tab--selected {
+      //padding-left: 24px;
+    }
+    
+    .panel-content {
+      text-align: start;
+      @media only screen and (min-width: $md) {
+        padding-left: 3.1em;
+        padding-right: 3.1em;
+        padding-top: 1.5em;
+        padding-bottom: 1.5em;
+      }
+    }
+
+}

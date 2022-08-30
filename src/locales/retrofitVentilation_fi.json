@@ -1,0 +1,53 @@
+{
+    "header1": "FI ...ventilation",
+    "box1Header1": "Yleiskatsaus",
+    "box1Text1": "k1",
+    "box1Text2": "k2",
+    "box1Text3": "k3",
+    "box1subheader1": " FI Ventilation text 1",
+    "box1Text4": "k4",
+    "box1subheader2": " FI Ventilation text 2",
+    "box1Text5": "k5",
+
+    "box2Header1": "FI Heat recovery ventilation to pre-warm supply air",
+    "box2Text1": "FI Mechanical ventilation with heat recovery",
+
+    "box3Header1": "FI CO2 and/or humidity sensors to control ventilation",
+    "box3Text1": "k6",
+
+    "navHeader": "Navigaatio",
+    "nav1": "FI Heat recovery ventilation",
+    "nav2": "FI CO2 and/or humidity sensors",
+
+
+
+
+    "heatRecoveryVentilationTab2text1": "k7",
+    "heatRecoveryVentilationTab3text1": "k8",
+
+    "heatRecoveryVentilationHeader1text1": "k9",
+
+    "heatRecoveryVentilationHeader2text1": "k10",
+
+    "heatRecoveryVentilationHeader3text1": "k11",
+
+    "heatRecoveryVentilationHeader4text1": "k12",
+
+    "heatRecoveryVentilationRelatedLink1": "FI ADD LINKS LATER!!",
+
+
+
+
+    "airQualitySensorTab2text1": "k13",
+    "airQualitySensorTab3text1": "k14",
+
+    "airQualitySensorHeader1text1": "k15",
+
+    "airQualitySensorHeader2text1": "k16",
+
+    "airQualitySensorHeader3text1": "k17",
+
+    "airQualitySensorHeader4text1": "k18",
+
+    "airQualitySensorRelatedLink1": "FI ADD LINKS LATER!!"
+}

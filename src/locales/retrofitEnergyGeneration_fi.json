@@ -1,0 +1,115 @@
+{
+    "header1": "Energian tuotanto",
+    "box1Header1": "Yleiskatsaus",
+    "box1Text1": "Teksti c1",
+    "box1Text2": "Teksti c2",
+    "box1Text3": "Teksti c3",
+    "box1subheader1": "Energian tuotanto 1",
+    "box1Text4": "Teksti c4",
+    "box1subheader2": "Energian tuotanto 2",
+    "box1Text5": "Teksti c5",
+
+    "box2Header1": "Teksti c6",
+    "box2Text1": "Teksti c7",
+
+    "box3Header1": "Tuuliturbiini",
+    "box3Text1": "Teksti c8",
+
+    "box4Header1": "Aurinkopaneelit",
+    "box4Text1": "Teksti c9.",
+
+    "box5Header1": "Biomassa poltin",
+    "box5Text1": "Teksti c10",
+
+    "box6Header1": "Biomassa lämpöpoltin",
+    "box6Text1": "Teksti c11",
+
+    "navHeader": "Navigaatio",
+    "nav1": "Hydroturbiini",
+    "nav2": "Tuuliturbiini",
+    "nav3": "Aurinkopaneelit",
+    "nav4": "Biomassa poltin",
+    "nav5": "Biomassa lämpöpoltin",
+
+
+
+
+    "hydroTurbineTab2text1": "Teksti c12",
+    "hydroTurbineTab3text1": "Teksti c13",
+
+    "hydroTurbineHeader1text1": "Teksti c14",
+    "hydroTurbineHeader1text2": "Teksti c15",
+    "hydroTurbineHeader1text3": "Teksti c16",
+    "hydroTurbineHeader1text4": "Teksti c17",
+
+    "hydroTurbineHeader2text1": "Teksti c18",
+
+    "hydroTurbineHeader3text1": "Teksti c19",
+
+    "hydroTurbineHeader4text1": "Teksti c20",
+
+    "hydroTurbineRelatedLink1": "Linkit myöhemmin",
+
+
+
+
+    "windTurbineTab2text1": "Teksti c21",
+
+    "windTurbineHeader1text1": "Teksti c22",
+
+    "windTurbineHeader2text1": "Teksti c23",
+
+    "windTurbineHeader3text1": "Teksti c24",
+
+    "windTurbineHeader4text1": "Teksti c25",
+
+    "windTurbineRelatedLink1": "Linkit myöhemmin",
+
+
+
+
+    "solarPanelsTab2text1": "Teksti c26",
+    "solarPanelsTab3text1": "Teksti c27",
+
+    "solarPanelsHeader1text1": "Teksti c28",
+
+    "solarPanelsHeader2text1": "Teksti c29",
+
+    "solarPanelsHeader3text1": "Teksti c30",
+
+    "solarPanelsHeader4text1": "Teksti c31",
+
+    "solarPanelsRelatedLink1": "Linkit",
+
+
+
+
+    "biomassDigesterTab2text1": "Teksti c31",
+    "biomassDigesterTab3text1": "Teksti c32",
+
+    "biomassDigesterHeader1text1": "Teksti c33",
+
+    "biomassDigesterHeader2text1": "Teksti c34",
+
+    "biomassDigesterHeader3text1": "Teksti c35",
+
+    "biomassDigesterHeader4text1": "Teksti c36",
+
+    "biomassDigesterRelatedLink1": "FI ADD LINKS LATER!!",
+
+
+
+
+    "biomassHeatGenerationTab2text1": "Teksti c37",
+    "biomassHeatGenerationTab3text1": "Teksti c38",
+
+    "biomassHeatGenerationHeader1text1": "Teksti c39",
+
+    "biomassHeatGenerationHeader2text1": "Teksti c40",
+
+    "biomassHeatGenerationHeader3text1": "Teksti c41",
+
+    "biomassHeatGenerationHeader4text1": "Teksti c42",
+
+    "biomassHeatGenerationRelatedLink1": "FI ADD LINKS LATER!!"
+}

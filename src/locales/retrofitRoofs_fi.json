@@ -1,0 +1,108 @@
+{
+    "header1": "FI ...roofs",
+    "box1Header1": "Yleiskatsaus",
+    "box1Text1": "j1",
+    "box1Text2": "j2",
+    "box1Text3": "j3",
+    "box1subheader1": " FI Roofs text 1",
+    "box1Text4": "j4",
+    "box1subheader2": " FI Roofs text 2",
+    "box1Text5": "j5",
+
+    "box2Header1": "Kylmän käyttöullakon lisäeristäminen puhallusvillalla vanhan eristeen päälle",
+    "box2Text1": "Parantaa yläpohjan ja katon lämmöneristävyyttä eristepaksuutta kasvattamalla.",
+
+    "box3Header1": "Vinon yläpohjan energiatehokkuuden parantaminen vaihtamalla eristeet tehokkaampiin",
+    "box3Text1": "Parantaa rakennuksen lämmöneristävyyttä eristepaksuutta kasvattamalla.",
+
+    "box4Header1": "Vinon yläpohjan lisäeristäminen enintään 50mm eristekerroksella vanhan höyrysulun päälle",
+    "box4Text1": "Parantaa hieman rakennuksen lämmöneristävyyttä eristepaksuutta kasvattamalla.",
+
+    "box5Header1": "Ilmatiiveyden parantaminen höyrynsulun vuotokohtien ja reikien teippauksin",
+    "box5Text1": "Parantaa lämmöneristävyyttä, ehkäisee lämmönvuotoja ja pienentää vedon tunnetta.",
+
+    "navHeader": "Navigaatio",
+    "nav1": "Kylmän käyttöullakon lisäeristäminen puhallusvillalla",
+    "nav2": "Vinon yläpohjan eristeiden vaihtaminen",
+    "nav3": "Vinon yläpohjan lisäeristäminen höyrysulun päälle",
+    "nav4": "Höyrysulun teippaukset",
+
+
+
+
+    "coldLoftTab2text1": "j6",
+    "coldLoftTab3text1": "j7",
+
+    "coldLoftHeader1text1": "Parantaa yläpohjan ja katon lämmöneristävyyttä eristepaksuutta kasvattamalla.",
+
+    "coldLoftHeader2text1": "Tämä on kaikista helpoin ja edullisin ratkaisu lisätä rakennuksen energiatehokkuutta, mikäli rakennuksessa on ns. kylmänä oleva ullakko. Mikäli olemassaoleva yläpohjaeriste on näkyvissä, niin uuden eristeen lisääminen on hyvin vaivatonta ja nopeaa.",
+
+    "coldLoftHeader3text1": "Ei vaikuta käyttäjämukavuuteen, koska tilassa ei oleskella. Mikäli vesikaton vedeneristystä ei ole varmistettu, lisäeriste voi mahdollisesti lisätä mikrobivaurioita jos alkuperäiset eristeet ovat kastuneet. Eriste saattaa vuosikymmenten kuluessa painua kasaan tai kulkeutua pois tilasta, mutta uutta eristettä on helppo ja vaivaton lisätä vanhan päälle.",
+    "coldLoftHeader3text2": "Eristemateriaali voidaan valita suhteellisen vapaasti tähän käyttötarkoitukseen, koska vahinkojen aiheuttaminen on epätodennäköistä eristeiden rakennusfysikaalisen toimivuuden ansiosta.",
+
+    "coldLoftHeader4text1": "Käyttöullakon lisäeristäminen on erittäin suositeltavaa, koska muutettava tila ei ole normaalissa asuinkäytössä, eikä toimenpide muuta rakennuksen ulkoasua lainkaan.",
+
+    "coldLoftRelatedLink1": "Katon tai yläpohjan lämmöneristävyyttä voidaan parantaa vaihtamalla vanha eriste uuteen ja tehokkaampaan. Esimerkiksi vanha purueristys kannattaa poistaa tehokkaalla imuautolla.",
+    "coldLoftRelatedLink2": "Muiden kuin puhallettavien eristemateriaalien vaihto edellyttää rakennustyyppisoveltuvuuden tutkimista.",
+
+
+
+
+    "changingInsulationTab2text1": "j8",
+    "changingInsulationTab3text1": "j9",
+
+    "changingInsulationHeader1text1": "Parantaa rakennuksen lämmöneristävyyttä eristepaksuutta kasvattamalla. Uuden rakenteen on noudatettava tällä hetkellä voimassa olevia määräyksiä lämmöneristävyyden suhteen.",
+
+    "changingInsulationHeader2text1": "Edellyttää aina purkutöitä, joka lisää kustannuksia merkittävästi. Energiatehokkuuden parantamiseksi kannattaa harkita myös eristekerroksen paksuuden kasvattamista.",
+
+    "changingInsulationHeader3text1": "Korjaustoimenpiteet edellyttävät käytännössä tilan tyhjentämistä.",
+    "changingInsulationHeader3text2": "Eristeen rakennusfysikaalinen toimivuus täytyy tutkia. Kaikki eristeet eivät myöskään eristä ääntä yhtä tehokkaasti.",
+    "changingInsulationHeader3text3": "Vanhojen rakenteiden purkutöistä tulee jätteitä, jotka tulee hävittää asianmukaisesti. Lisäksi uusi eriste saattaa vuosikymmenten kuluessa painua kasaan tai kulkeutua pois tilasta.",
+
+    "changingInsulationHeader4text1": "Muuttaa aina sisätilojen luonnetta, koska vanhat pintakerrokset joudutaan purkamaan remontin yhteydessä.",
+    "changingInsulationHeader4text2": "Mikäli kyseessä on historiallinen kohde, tulee olla yhteydessä museoviranomaisiin ja rakennusvalvontaan ennen toimenpiteitä.",
+
+    "changingInsulationRelatedLink1": "FI ADD LINKS LATER!!",
+
+
+
+
+    "insulationAddedVBarrierTab2text1": "Eristekerroksen liiallinen kasvattaminen voi aiheuttaa kosteusvaurioita.",
+    "insulationAddedVBarrierTab3text1": "j10",
+
+    "insulationAddedVBarrierHeader1text1": "Parantaa hieman rakennuksen lämmöneristävyyttä eristepaksuutta kasvattamalla. Uuden rakenteen on noudatettava tällä hetkellä voimassa olevia määräyksiä lämmöneristävyyden suhteen.",
+
+    "insulationAddedVBarrierHeader2text1": "Edellyttää aina purkutöitä, joka lisää kustannuksia merkittävästi. Energiatehokkuuden parantamiseksi kannattaa harkita myös eristekerroksen paksuuden kasvattamista.",
+    "insulationAddedVBarrierHeader2text2": "Kannattaa harkita toimenpidettä, mikäli pintoja uusitaan muutenkin.",
+
+    "insulationAddedVBarrierHeader3text1": "Korjaustoimenpiteet edellyttävät käytännössä tilan tyhjentämistä.",
+    "insulationAddedVBarrierHeader3text2": "Eristeen rakennusfysikaalinen toimivuus täytyy tutkia. Kaikki eristeet eivät myöskään eristä ääntä yhtä tehokkaasti.",
+    "insulationAddedVBarrierHeader3text3": "Eristekerroksen liiallinen kasvattaminen voi aiheuttaa kosteusvaurioita.",
+    "insulationAddedVBarrierHeader3text4": "Vanhojen rakenteiden purkutöistä tulee jätteitä, jotka tulee hävittää asianmukaisesti. Lisäksi uusi eriste saattaa vuosikymmenten kuluessa painua kasaan tai kulkeutua pois tilasta.",
+
+    "insulationAddedVBarrierHeader4text1": "Muuttaa aina sisätilojen luonnetta, koska vanhat pintakerrokset joudutaan purkamaan remontin yhteydessä.",
+    "insulationAddedVBarrierHeader4text2": "Mikäli kyseessä on historiallinen kohde, tulee olla yhteydessä museoviranomaisiin ja rakennusvalvontaan ennen toimenpiteitä.",
+
+    "insulationAddedVBarrierRelatedLink1": "Ilmatiiviyden parantaminen voi todennäköisesti olla lämmöneristävyydeltään parempi sekä kustannustehokkaampi vaihtoehto. Vaihtoehtona esimerkiksi 20 mm kuitulevyn lisääminen.",
+
+
+
+
+    "tapingVBarrierTab2text1": "Eristekerroksen liiallinen kasvattaminen voi aiheuttaa kosteusvaurioita.",
+    "tapingVBarrierTab3text1": "j11",
+
+    "tapingVBarrierHeader1text1": "Parantaa lämmöneristävyyttä, ehkäisee lämmönvuotoja ja pienentää vedon tunnetta.",
+
+    "tapingVBarrierHeader2text1": "Kannattaa harkita toimenpidettä, mikäli pintoja uusitaan muutenkin.",
+
+    "tapingVBarrierHeader3text1": "Vedon tunteen vähentäminen parantaa käyttäjämukavuutta enemmän kuin pieni lisälämmöneristäminen.",
+    "tapingVBarrierHeader3text2": "Olemassa olevan rakenteen (esimerkiksi höyrynsulkukalvon) teknistä käyttöikää tulee tarkastalla. Muovikalvojen tekninen käyttöikä on käytännössä 30 vuotta.",
+    "tapingVBarrierHeader3text3": "Korjaustoimenpiteet edellyttävät käytännössä tilan tyhjentämistä.",
+    "tapingVBarrierHeader3text4": "Eristeen rakennusfysikaalinen toimivuus täytyy tutkia. Kaikki eristeet eivät myöskään eristä ääntä yhtä tehokkaasti.",
+    "tapingVBarrierHeader3text5": "Eristekerroksen liiallinen kasvattaminen voi aiheuttaa kosteusvaurioita.",
+    "tapingVBarrierHeader3text6": "Vanhojen rakenteiden purkutöistä tulee jätteitä, jotka tulee hävittää asianmukaisesti.",
+
+    "tapingVBarrierHeader4text1": "Höyrysuluttomassa rakennuksessa pinkopahvi on hengittävä vaihtoehto. Vanhoja kerroksia ei välttämättä kannata poistaa.",
+
+    "tapingVBarrierRelatedLink1": "Ilmatiiviyden parantaminen voi todennäköisesti olla lämmöneristävyydeltään parempi sekä kustannustehokkaampi vaihtoehto. Vaihtoehtona esimerkiksi 20 mm kuitulevyn lisääminen."
+}

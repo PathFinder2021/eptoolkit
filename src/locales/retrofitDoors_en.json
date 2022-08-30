@@ -1,0 +1,154 @@
+{
+    "header1": "Improving the performance of external doors",
+    "box1Header1": "Overview",
+    "box1Text1": "",
+    "box1Text2": "",
+    "box1Text3": "",
+    "box1subheader1": " Altering and replacing doors",
+    "box1Text4": "Improving the energy performance of the actual doors can be effective but isn't always heritage-sensitive.",
+    "box1subheader2": " Adapting door openings",
+    "box1Text5": "Additions to door openings have a visual impact but do not affect the doors themselves.",
+
+    "box2Header1": "Replace existing doors with new, draught-proofed, well insulated doors",
+    "box2Text1": "New exterior doors in accordance with the current regulations will be replaced.",
+
+    "box3Header1": "Insulate doors internally",
+    "box3Text1": "The existing doors will be repaired and insulation will be added inside.",
+
+    "box4Header1": "Add draught proofing to doors",
+    "box4Text1": "Existing doors are repaired and sealed.",
+
+    "box5Header1": "Add draught curtains internally to doors",
+    "box5Text1": "Thick curtains reduce draughtiness.",
+
+    "box6Header1": "Add storm doors externally",
+    "box6Text1": "Add another door outside the external doors.",
+
+    "box7Header1": "Create draught lobbies externally",
+    "box7Text1": "Add a draught lobby to the building. ",
+
+    "box8Header1": "Create draught lobbies internally",
+    "box8Text1": "Add a draught lobby to the building. ",
+
+    "navHeader": "Navigation",
+    "nav1": "Replace with new doors",
+    "nav2": "Insulate doors internally",
+    "nav3": "Add draught proofing to doors",
+    "nav4": "Add draught curtains internally",
+    "nav5": "Add storm doors externally",
+    "nav6": "Create draught lobbies externally",
+    "nav7": "Create draught lobbies internally",
+    
+
+
+
+    "replaceDoorTab2text1": "",
+    "replaceDoorTab3text1": "",
+
+    "replaceDoorHeader1text1": "New exterior doors in accordance with the current regulations will be replaced.",
+
+    "replaceDoorHeader2text1": "Doors are expensive building elements. Energy efficiency can improve very significantly, especially thanks to better tightness.",
+
+    "replaceDoorHeader3text1": "The draughtiness is decreasing.",
+
+    "replaceDoorHeader4text1": "Changes the nature of both the exterior and the interior. Contact building control and museum authorities.",
+
+    "replaceDoorRelatedLink1": "ADD LINKS LATER!!",
+
+
+
+
+    "insulateInternallyTab2text1": "",
+    "insulateInternallyTab3text1": "",
+
+    "insulateInternallyHeader1text1": "The existing doors will be repaired and insulation will be added inside.",
+
+    "insulateInternallyHeader2text1": "Energy efficiency can improve significantly, especially due to better tightness.",
+
+    "insulateInternallyHeader3text1": "The draughtiness is decreasing.",
+
+    "insulateInternallyHeader4text1": "Changes the nature of the interior. Contact building control and museum authorities.",
+
+    "insulateInternallyRelatedLink1": "ADD LINKS LATER!!",
+
+
+
+
+    "draughtProofingTab2text1": "",
+    "draughtProofingTab3text1": "",
+
+    "draughtProofingHeader1text1": "Existing doors are repaired and sealed. For example, seals are installed between frames and door panels.",
+
+    "draughtProofingHeader2text1": "Energy efficiency improves especially thanks to better tightness.",
+
+    "draughtProofingHeader3text1": "The draughtiness is decreasing.",
+
+    "draughtProofingHeader4text1": "Does not change the nature of the interior.",
+
+    "draughtProofingRelatedLink1": "This is the primary solution thanks to its ease of use.",
+
+
+
+
+    "draughtCurtainTab2text1": "",
+    "draughtCurtainTab3text1": "",
+
+    "draughtCurtainHeader1text1": "Thick curtains reduce draughtiness.",
+
+    "draughtCurtainHeader2text1": "The impact on energy efficiency is minimal.",
+
+    "draughtCurtainHeader3text1": "The draughtiness decreases slightly.",
+
+    "draughtCurtainHeader4text1": "Possibly changes the nature of the interior.",
+
+    "draughtCurtainRelatedLink1": "ADD LINKS LATER!!",
+
+
+
+
+    "stormDoorTab2text1": "",
+    "stormDoorTab3text1": "",
+
+    "stormDoorHeader1text1": "Add another door outside the external doors.",
+
+    "stormDoorHeader2text1": "Energy efficiency will be significantly improved.",
+
+    "stormDoorHeader3text1": "The draughtiness is significantly reduced.",
+    "stormDoorHeader3text2": "Extends the external door’s life.",
+
+    "stormDoorHeader4text1": "Changes the nature of the exterior.",
+
+    "stormDoorRelatedLink1": "Recommended as a renovation solution.",
+
+
+
+
+    "draughtLobbyExternalTab2text1": "",
+    "draughtLobbyExternalTab3text1": "",
+
+    "draughtLobbyExternalHeader1text1": "Add a draught lobby to the building. Practically all buildings in the Arctic region have draught lobbies.",
+
+    "draughtLobbyExternalHeader2text1": "Energy efficiency will be significantly improved. Potentially expensive solution.",
+
+    "draughtLobbyExternalHeader3text1": "Heat insulation will be improved and the draughtiness will be significantly reduced.",
+
+    "draughtLobbyExternalHeader4text1": "Changes the nature of the building.",
+
+    "draughtLobbyExternalRelatedLink1": "The renovation solution is recommended if this can be done taking into account the history of the building.",
+
+
+
+
+    "draughtLobbyInternalTab2text1": "",
+    "draughtLobbyInternalTab3text1": "",
+
+    "draughtLobbyInternalHeader1text1": "Add a draught lobby to the building. Practically all buildings in the Arctic region have draught lobbies.",
+
+    "draughtLobbyInternalHeader2text1": "Energy efficiency will be significantly improved. Potentially expensive solution.",
+
+    "draughtLobbyInternalHeader3text1": "Heat insulation will be improved and the draughtiness feel will be significantly reduced.",
+
+    "draughtLobbyInternalHeader4text1": "Changes the nature of the building.",
+
+    "draughtLobbyInternalRelatedLink1": "The renovation solution is recommended if this can be done taking into account the history of the building."
+}

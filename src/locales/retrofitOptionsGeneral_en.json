@@ -1,0 +1,39 @@
+{
+    "energyPerformanceLabel": "Energy performance",
+    "heritageLabel": "Heritage suitability",
+    "costLabel": "Cost efficiency",
+    "sustainabilityLabel": "Sustainability",
+    "energyPerformanceRatingLabels": ["Horrible", "Bad", "Moderate", "Good", "Excellent"],
+    "heritageRatingLabels": ["Horrible", "Bad", "Moderate", "Good", "Excellent"],
+    "costRatingLabels": ["Expensive", "Pricey", "Reasonable", "Affordable", "Inexpensive"],
+    "sustainabilityRatingLabels": ["Horrible", "Bad", "Moderate", "Good", "Excellent"],
+
+    "tab1": "Retrofit measure at a glance",
+    "tab2": "Possible technical side effects",
+    "tab3": "Add retrofit measure to your project",
+    "tab3text1": "Adding retrofit measures to your currently selected building can affect its score. You can see how the selected measures affect the score by clicking the shopping cart icon in the toolbar.",
+    "tab3button1": "Add measure",
+
+    "ratingEnergy": "Energy performance",
+    "ratingHeritage": "Heritage suitability",
+    "ratingCost": "Cost efficiency",
+    "ratingSustainability": "Sustainability",
+
+    "explanationText1": "",
+    "explanationText2": "Hover over a retrofit option to get an overview or click for more details.",
+
+    "navHeader": "Navigation",
+    "nav1": "How it works",
+    "nav2": "Cost effectiviness & energy performance",
+    "nav3": "User comfort, side effects & sustainability",
+    "nav4": "Heritage suitability & design options",
+    "nav5": "Related retrofit measures",
+
+    "header1": "How this retrofit measure works",
+    "header2": "Cost effectiveness and impact on energy performance",
+    "header3": "User comfort, side effects and sustainability",
+    "header4": "Heritage suitability and design options",
+    "header5": "Related retrofit measures",
+
+    "relatedText1": "The following retrofit measure(s) might also be of interest to you as alternatives to the retrofit measure described above, to complement it or to compensate for or investigate any possible side effects it might cause:"
+}
